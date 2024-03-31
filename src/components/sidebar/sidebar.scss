@@ -1,0 +1,17 @@
+.sidebar {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	background-color: black;
+	width: 15rem;
+	display: flex;
+	flex-direction: column;
+	gap: 3rem;
+	padding-top: 5rem;
+	align-items: center;
+	text-align: left;
+
+	a {
+		color: green;
+	}
+}
