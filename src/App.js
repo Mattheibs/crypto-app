@@ -3,9 +3,9 @@ import React from "react";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import AnalyticsDashboard from "./pages/analyticsDashboard/analyticsDashboard";
-import TableView from "./components/tableView/tableView";
-import ProfileSettings from "./components/profileSettings/profileSettings";
+import ProfileSettings from "./pages/profileSettings/profileSettings";
 import { useTheme } from "./components/contexts/theme/themeContext";
+import TableView from "./pages/tableView/tableView";
 
 function App() {
 	const { theme } = useTheme();
