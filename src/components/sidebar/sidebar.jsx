@@ -1,15 +1,23 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 import "./sidebar.scss";
 
 function Sidebar() {
 	return (
 		<div className="sidebar">
-			<Link to="/">Analytics Dashboard</Link>
-			<Link to="/table-view">Table View</Link>
-			<Link to="/profile-settings">Settings</Link>
-			<h1 className="practice">h</h1>
+			<h1>Cryp-Dash</h1>
+			<div className="sidebar__links">
+				<NavLink exact to="/" activeClassName="active">
+					Analytics Dashboard
+				</NavLink>
+				<NavLink to="/table-view" activeClassName="active">
+					Table View
+				</NavLink>
+				<NavLink to="/profile-settings" activeClassName="active">
+					Settings
+				</NavLink>
+			</div>
 		</div>
 	);
 }
