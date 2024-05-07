@@ -1,0 +1,22 @@
+.table {
+	&__export {
+		display: flex;
+		justify-content: flex-end;
+		margin-bottom: 1rem;
+	}
+}
+.ag-root-wrapper-body.ag-layout-normal {
+	min-height: 42.45rem;
+}
+
+.ag-paging-panel {
+	justify-content: flex-start; //Moves pagination options to the left
+}
+
+.positive {
+	color: green;
+}
+
+.negative {
+	color: orange;
+}

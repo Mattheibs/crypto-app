@@ -3,10 +3,10 @@ import React from "react";
 import "./analyticsDashboard.scss";
 import AnalyticsSlider from "../../components/analyticsDashboard/analyticsSlider/analyticsSlider";
 
-function AnalyticsDashboard() {
+function AnalyticsDashboard({ data }) {
 	return (
 		<div className="AnalyticsDashboard">
-			<AnalyticsSlider />
+			<AnalyticsSlider sliderData={data} />
 		</div>
 	);
 }

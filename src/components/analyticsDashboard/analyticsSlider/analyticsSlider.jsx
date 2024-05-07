@@ -1,16 +1,11 @@
 import React, { useState, useEffect } from "react";
-import jsonData from "../../../data.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "./analyticsSlider.scss";
 import { Autoplay } from "swiper/modules";
 
-function AnalyticsSlider() {
-	const [cryptoData, setCryptoData] = useState([]);
-	useEffect(() => {
-		setCryptoData(jsonData);
-	}, []);
-
+function AnalyticsSlider({ sliderData }) {
+	console.log(sliderData.length);
 	return (
 		<div className="analytics-slider">
 			<Swiper
@@ -25,8 +20,8 @@ function AnalyticsSlider() {
 					pauseOnMouseEnter: true,
 				}}
 			>
-				{cryptoData.length > 0
-					? cryptoData.map((coin, index) => {
+				{sliderData.length > 0
+					? sliderData.map((coin, index) => {
 							return (
 								<SwiperSlide
 									key={index}
