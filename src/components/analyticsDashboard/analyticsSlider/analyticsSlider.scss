@@ -2,13 +2,8 @@
 	&__swiper {
 		&__slide {
 			padding: 1rem;
-			background-image: linear-gradient(
-				to bottom,
-				rgba(6, 11, 38, 100%),
-				rgba(26, 31, 55, 90%)
-			);
+			background-color: var(--panel);
 			border-radius: var(--border-radius);
-			color: white;
 			cursor: pointer;
 		}
 	}

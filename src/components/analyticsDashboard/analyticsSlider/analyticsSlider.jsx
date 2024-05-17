@@ -5,7 +5,6 @@ import "./analyticsSlider.scss";
 import { Autoplay } from "swiper/modules";
 
 function AnalyticsSlider({ sliderData }) {
-	console.log(sliderData.length);
 	return (
 		<div className="analytics-slider">
 			<Swiper

@@ -2,22 +2,21 @@
   --border-radius: 14px;
 }
 
+.app {
+  background-color: var(--background)
+}
+
 *, *::after, *::before {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: var(--primary-font);
-  color: var(--primary-color);
 }
 
-.app {
-  margin-left: 15.5rem;
-  /* Adds spacing for the sidebar */
+h1, h2, h3, h4, p, a {
+  color: var(--text);
 }
 
-body {
-  padding: 0.5rem;
-}
 
 button {
   padding: 0.5rem 1rem;
@@ -35,4 +34,10 @@ button:hover {
   border: 1px solid grey;
   cursor: pointer;
 
+}
+
+.sidebar-margin {
+  margin-left: 15rem;
+  padding: 1rem;
+  height: 100vh;
 }

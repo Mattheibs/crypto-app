@@ -1,12 +1,14 @@
 import { Color } from "./themeModal";
 export const THEMES = {
 	light: {
-		"--blackTextToBlueText": Color.BLACK,
-		"--blackTextToWhiteText": Color.BLACK,
+		"--text": Color.LIGHTTEXT,
+		"--background": Color.BACKGROUNDLIGHT,
+		"--panel": Color.PANELIGHT,
 	},
 
 	dark: {
-		"--blackTextToBlueText": Color.BLUE,
-		"--blackTextToWhiteText": Color.WHITE,
+		"--text": Color.WHITE,
+		"--background": Color.BACKGROUNDDARK,
+		"--panel": Color.PANELDARK,
 	},
 };
