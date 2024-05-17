@@ -1,40 +1,53 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-
-import "./sidebar.scss";
 import Toggle from "../toggle/toggle";
+import "./sidebar.scss";
+
+//Images
+import mascot from "../../images/mascot.svg";
 
 function Sidebar() {
 	return (
 		<div className="sidebar">
-			<h1>Cryp-Dash</h1>
-			<div className="sidebar__links">
-				<NavLink
-					to="/"
-					className={({ isActive }) =>
-						isActive ? "active" : undefined
-					}
-				>
-					Analytics Dashboard
-				</NavLink>
-				<NavLink
-					to="/table-view"
-					className={({ isActive }) =>
-						isActive ? "active" : undefined
-					}
-				>
-					Table View
-				</NavLink>
-				<NavLink
-					to="/profile-settings"
-					className={({ isActive }) =>
-						isActive ? "active" : undefined
-					}
-				>
-					Settings
-				</NavLink>
+			<div className="sidebar__top">
+				<h1>Cryp-Dash</h1>
+				<div className="sidebar__top__links">
+					<NavLink
+						to="/"
+						className={({ isActive }) =>
+							isActive ? "active" : undefined
+						}
+					>
+						Analytics Dashboard
+					</NavLink>
+					<NavLink
+						to="/table-view"
+						className={({ isActive }) =>
+							isActive ? "active" : undefined
+						}
+					>
+						Table View
+					</NavLink>
+					<NavLink
+						to="/profile-settings"
+						className={({ isActive }) =>
+							isActive ? "active" : undefined
+						}
+					>
+						Settings
+					</NavLink>
+				</div>
 			</div>
-			<Toggle />
+
+			<div className="sidebar__bottom">
+				<div className="sidebar__bottom__advert">
+					<h3>Sign up today for a 30 day free trial!</h3>
+					<img src={mascot} alt="" />
+				</div>
+				<div className="sidebar__bottom__toggle">
+					<Toggle />
+				</div>
+			</div>
 		</div>
 	);
 }
