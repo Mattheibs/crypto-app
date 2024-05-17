@@ -1,17 +1,10 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import { useTheme } from "../contexts/theme/themeContext";
 
 import "./sidebar.scss";
+import Toggle from "../toggle/toggle";
 
 function Sidebar() {
-	const { themeType, setCurrentTheme } = useTheme();
-	const toggleTheme = () => {
-		setCurrentTheme((prevTheme) =>
-			prevTheme === "dark" ? "light" : "dark"
-		);
-	};
-
 	return (
 		<div className="sidebar">
 			<h1>Cryp-Dash</h1>
@@ -41,7 +34,7 @@ function Sidebar() {
 					Settings
 				</NavLink>
 			</div>
-			<button onClick={toggleTheme}>Change Theme</button>
+			<Toggle />
 		</div>
 	);
 }

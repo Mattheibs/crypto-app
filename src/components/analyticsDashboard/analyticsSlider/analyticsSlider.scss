@@ -5,6 +5,10 @@
 			background-color: var(--panel);
 			border-radius: var(--border-radius);
 			cursor: pointer;
+
+			p b {
+				margin-left: 0.3rem;
+			}
 		}
 	}
 }
