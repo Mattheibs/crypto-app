@@ -1,40 +1,31 @@
 .sidebar {
 	position: absolute;
-	top: 0.5rem;
-	bottom: 0.5rem;
+	top: 0;
+	bottom: 0;
 	width: 15rem;
 	display: flex;
 	flex-direction: column;
 	gap: 3rem;
-	padding-top: 1rem;
 	align-items: center;
-	border-radius: var(--border-radius);
-	background-image: linear-gradient(
-		95deg,
-		rgba(6, 11, 38, 100%),
-		rgba(6, 11, 38, 100%),
-		rgba(6, 11, 38, 100%),
-		rgba(26, 31, 55, 95%)
-	);
+	background-color: var(--panel);
 
 	&__links {
 		display: flex;
 		flex-direction: column;
 
 		a {
-			color: white;
 			text-decoration: none;
 			padding: 1rem;
 		}
 
 		.active {
 			border-radius: var(--border-radius);
-			background-color: #1a1f37;
+			background-color: var(--background);
 		}
 	}
 
 	h1 {
-		color: white;
 		border-bottom: 1px solid white;
+		margin-top: 1rem;
 	}
 }

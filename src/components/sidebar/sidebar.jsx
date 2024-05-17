@@ -2,6 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 import "./sidebar.scss";
+import Toggle from "../toggle/toggle";
 
 function Sidebar() {
 	return (
@@ -33,6 +34,7 @@ function Sidebar() {
 					Settings
 				</NavLink>
 			</div>
+			<Toggle />
 		</div>
 	);
 }

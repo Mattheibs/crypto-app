@@ -1,0 +1,24 @@
+.seven-days {
+	max-width: 100%;
+	padding: 1rem;
+	border-radius: var(--border-radius);
+	background-color: var(--panel);
+	margin-top: 1rem;
+
+	&__custom-tooltip {
+		background-color: var(--background);
+		padding: 1rem;
+		border-radius: var(--border-radius);
+	}
+
+	h1 {
+		text-align: center;
+		margin-bottom: 1rem;
+	}
+
+	b {
+		color: var(--text);
+		font-weight: 700;
+		font-size: 1.1rem;
+	}
+}

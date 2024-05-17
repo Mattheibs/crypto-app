@@ -5,14 +5,13 @@ import "./analyticsSlider.scss";
 import { Autoplay } from "swiper/modules";
 
 function AnalyticsSlider({ sliderData }) {
-	console.log(sliderData.length);
 	return (
 		<div className="analytics-slider">
 			<Swiper
 				modules={[Autoplay]}
 				className="analytics-slider__swiper"
 				slidesPerView={4}
-				spaceBetween={10}
+				spaceBetween={15}
 				loop={true}
 				navigation={true}
 				autoplay={{
@@ -30,7 +29,7 @@ function AnalyticsSlider({ sliderData }) {
 									<h4>
 										{coin.name} ({coin.symbol})
 									</h4>
-									<p>{coin.price_usd}$</p>
+									<p>${coin.price_usd}</p>
 									<p>
 										Last 24h:
 										<b

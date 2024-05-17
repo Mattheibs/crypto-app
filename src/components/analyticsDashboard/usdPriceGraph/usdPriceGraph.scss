@@ -1,0 +1,13 @@
+.usd-price {
+	max-width: 100%;
+	padding: 1rem;
+	border-radius: var(--border-radius);
+	background-color: var(--panel);
+	margin-top: 1rem;
+
+	&__custom-tooltip {
+		background-color: var(--background);
+		padding: 1rem;
+		border-radius: var(--border-radius);
+	}
+}
