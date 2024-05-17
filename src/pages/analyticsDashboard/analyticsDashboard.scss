@@ -1,0 +1,7 @@
+.analytics-dashboard {
+	&__bottom {
+		display: grid;
+		grid-template-columns: 2fr 1fr;
+		gap: 1rem;
+	}
+}

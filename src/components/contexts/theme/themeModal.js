@@ -7,8 +7,10 @@ export const Color = {
 	BACKGROUNDDARK: "#131722",
 	PANELDARK: "#1B2130",
 	GREYTEXT: "#7f828a",
+	SVGDARK: "invert(0%)",
 
 	BACKGROUNDLIGHT: "#F2F4F6",
 	PANELIGHT: "#FFFFFF",
 	LIGHTTEXT: "#516481",
+	SVGLIGHT: "invert(70%)",
 };

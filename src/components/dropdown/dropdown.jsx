@@ -53,6 +53,7 @@ const Dropdown = ({ onOptionSelect }) => {
 								id={`option-${option}`}
 								checked={selectedOption === option}
 								className="dropdown__options__option"
+								onChange={() => {}}
 							/>
 							<label htmlFor={`option-${option}`}>
 								{option}
