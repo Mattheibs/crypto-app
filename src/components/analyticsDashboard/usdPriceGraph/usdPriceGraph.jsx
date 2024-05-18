@@ -27,7 +27,6 @@ function UsdPriceGraph({ usdPriceData }) {
 					price: item.price_usd,
 				}));
 		};
-
 		setFilteredData(filteredOption());
 	}, [selectedRange, usdPriceData]);
 

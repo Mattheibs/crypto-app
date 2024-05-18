@@ -8,35 +8,18 @@ function UsdPieChart({ usdPriceData }) {
 	const [selectedRange, setSelectedRange] = useState("0-20");
 	const [filteredData, setFilteredData] = useState([]);
 	const colors = [
-		"#8884d8",
-		"#8dd1e1",
-		"#82ca9d",
-		"#a4de6c",
-		"#d0ed57",
-		"#ffc658",
-		"#ff8042",
-		"#ffbb28",
-		"#ff8042",
-		"#0088fe",
-		"#00c49f",
-		"#ffbb28",
-		"#ff8042",
-		"#d0ed57",
-		"#a4de6c",
-		"#82ca9d",
-		"#8dd1e1",
-		"#8884d8",
-		"#83a6ed",
-		"#8dd1e1",
-		"#82ca9d",
-		"#a4de6c",
-		"#d0ed57",
-		"#ffc658",
-		"#ff8042",
-		"#ffbb28",
-		"#ff8042",
-		"#0088fe",
-		"#00c49f",
+		"#007AFF",
+		"#2AC670",
+		"#02CACD",
+		"#956AFF",
+		"#FDAD15",
+		"#946aff",
+		"#02cacd",
+		"#C70039",
+		"#900C3F",
+		"#581845",
+		"#DAF7A6",
+		"#FFC300",
 	];
 
 	useEffect(() => {
@@ -76,10 +59,7 @@ function UsdPieChart({ usdPriceData }) {
 			<Dropdown onOptionSelect={handleOptionSelect} />
 			<ResponsiveContainer height={260}>
 				<PieChart width={400} height={400}>
-					<Tooltip
-						// cursor={{ fill: "transparent" }}
-						content={<CustomTooltip />}
-					/>
+					<Tooltip content={<CustomTooltip />} />
 					<Pie
 						data={filteredData}
 						dataKey="price"
@@ -87,7 +67,8 @@ function UsdPieChart({ usdPriceData }) {
 						cx="50%"
 						cy="50%"
 						outerRadius={120}
-						fill="#8884d8"
+						style={{ outline: "none" }}
+						strokeWidth={0.6}
 					/>
 				</PieChart>
 			</ResponsiveContainer>

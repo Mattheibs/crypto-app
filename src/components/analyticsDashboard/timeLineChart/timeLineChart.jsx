@@ -6,20 +6,28 @@ import {
 	YAxis,
 	CartesianGrid,
 	Tooltip,
-	Legend,
 	ResponsiveContainer,
 } from "recharts";
 
 import "./timeLineChart.scss";
-import Dropdown from "../../dropdown/dropdown";
 
 function TimeLineChart({ usdPriceData }) {
 	const [filteredData, setFilteredData] = useState([]);
+	const colors = [
+		"#007AFF",
+		"#02CACD",
+		"#956AFF",
+		"#FDAD15",
+		"#946aff",
+		"#02cacd",
+		"#ff8042",
+		"#0088fe",
+	];
 
 	const transformData = (data) => {
 		const transformedData = {};
 
-		data.filter((item) => item.rank <= 10).forEach((coin) => {
+		data.filter((item) => item.rank <= 3).forEach((coin) => {
 			coin.price_usd_last_7_days.forEach((priceData) => {
 				if (!transformedData[priceData.date]) {
 					transformedData[priceData.date] = {
@@ -59,9 +67,10 @@ function TimeLineChart({ usdPriceData }) {
 
 		return null;
 	};
+
 	return (
 		<div className="seven-days">
-			<h1>Top 10 Coins for the past 7 days</h1>
+			<h1>Top 3 Coins for the past 7 days</h1>
 			{!chartData.length ? null : (
 				<ResponsiveContainer height={300}>
 					<LineChart
@@ -135,9 +144,10 @@ function TimeLineChart({ usdPriceData }) {
 									key={index}
 									type="monotone"
 									dataKey={key}
-									stroke={`#${Math.floor(
-										Math.random() * 16777215
-									).toString(16)}`}
+									stroke={
+										colors[index % colors.length]
+									}
+									strokeWidth={2}
 								/>
 							))}
 					</LineChart>

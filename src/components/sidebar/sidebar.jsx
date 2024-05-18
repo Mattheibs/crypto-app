@@ -29,7 +29,7 @@ function Sidebar() {
 						Table View
 					</NavLink>
 					<NavLink
-						to="/profile-settings"
+						to="/settings"
 						className={({ isActive }) =>
 							isActive ? "active" : undefined
 						}
