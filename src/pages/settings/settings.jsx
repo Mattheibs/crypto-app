@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./settings.scss";
 import ProfileSettings from "../../components/settingsPages/profileSettings/profileSettings";
-import TeamSettings from "../../components/settingsPages/teamSettings/teamSettings";
 import Billing from "../../components/settingsPages/billing/billing";
 
 function Settings() {
@@ -20,9 +19,6 @@ function Settings() {
 				<div onClick={() => handleMenuClick("Billing")}>
 					Billing
 				</div>
-				<div onClick={() => handleMenuClick("Team Settings")}>
-					Team Settings
-				</div>
 			</div>
 			<div className="settings__line">
 				<div
@@ -34,8 +30,6 @@ function Settings() {
 
 			{selectedMenu === "Profile Settings" ? (
 				<ProfileSettings />
-			) : selectedMenu === "Team Settings" ? (
-				<TeamSettings />
 			) : (
 				<Billing />
 			)}
