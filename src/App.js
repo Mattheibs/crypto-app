@@ -3,10 +3,11 @@ import jsonData from "./data.json";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import AnalyticsDashboard from "./pages/analyticsDashboard/analyticsDashboard";
-import ProfileSettings from "./pages/profileSettings/profileSettings";
+import Settings from "./pages/settings/settings";
 import { useTheme } from "./components/contexts/theme/themeContext";
 import TableView from "./pages/tableView/tableView";
 import Sidebar from "./components/sidebar/sidebar";
+import NotFound from "./components/notFound/notFound";
 
 function App() {
 	const { theme } = useTheme();
@@ -28,10 +29,8 @@ function App() {
 						path="/table-view"
 						element={<TableView tableData={cryptoData} />}
 					/>
-					<Route
-						path="/profile-settings"
-						element={<ProfileSettings />}
-					/>
+					<Route path="/settings" element={<Settings />} />
+					<Route path="*" element={<NotFound />} />
 				</Routes>
 			</div>
 		</div>

@@ -1,276 +1,2285 @@
 [
     {
         "id": "1",
-        "symbol": "WJS",
-        "name": "BlFo",
-        "rank": 3,
-        "price_usd": "352.69",
-        "percent_change_24h": "-9.31",
-        "percent_change_1h": "-3.98",
-        "percent_change_7d": "-0.75",
-        "price_btc": "0.061477",
+        "symbol": "PPE",
+        "name": "zCsH",
+        "rank": 89,
+        "price_usd": "922.06",
+        "percent_change_24h": "2.81",
+        "percent_change_1h": "-1.40",
+        "percent_change_7d": "-15.62",
+        "price_btc": "0.020277",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "588.41"
+                "price_usd": "44.81"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "956.37"
+                "price_usd": "679.34"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "288.48"
+                "price_usd": "236.99"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "594.31"
+                "price_usd": "943.75"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "903.03"
+                "price_usd": "497.06"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "979.86"
+                "price_usd": "29.65"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "549.97"
+                "price_usd": "663.16"
             }
         ]
     },
     {
         "id": "2",
-        "symbol": "DRW",
-        "name": "uYGG",
-        "rank": 47,
-        "price_usd": "908.77",
-        "percent_change_24h": "1.10",
-        "percent_change_1h": "-3.29",
-        "percent_change_7d": "14.51",
-        "price_btc": "0.027972",
+        "symbol": "NAB",
+        "name": "xpVC",
+        "rank": 45,
+        "price_usd": "484.80",
+        "percent_change_24h": "-7.66",
+        "percent_change_1h": "-0.37",
+        "percent_change_7d": "-12.70",
+        "price_btc": "0.020357",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "782.27"
+                "price_usd": "202.77"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "49.26"
+                "price_usd": "573.53"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "690.23"
+                "price_usd": "35.03"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "908.13"
+                "price_usd": "842.35"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "477.48"
+                "price_usd": "856.19"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "568.45"
+                "price_usd": "10.38"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "468.37"
+                "price_usd": "768.74"
             }
         ]
     },
     {
         "id": "3",
-        "symbol": "UBE",
-        "name": "onFN",
-        "rank": 59,
-        "price_usd": "974.16",
-        "percent_change_24h": "7.64",
-        "percent_change_1h": "-3.91",
-        "percent_change_7d": "-14.31",
-        "price_btc": "0.071880",
+        "symbol": "PRK",
+        "name": "lgeh",
+        "rank": 79,
+        "price_usd": "635.74",
+        "percent_change_24h": "8.21",
+        "percent_change_1h": "1.67",
+        "percent_change_7d": "5.71",
+        "price_btc": "0.058998",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "802.02"
+                "price_usd": "434.31"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "924.97"
+                "price_usd": "624.79"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "887.20"
+                "price_usd": "770.42"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "747.24"
+                "price_usd": "755.82"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "775.38"
+                "price_usd": "417.20"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "446.02"
+                "price_usd": "844.14"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "195.91"
+                "price_usd": "984.16"
             }
         ]
     },
     {
         "id": "4",
-        "symbol": "VXY",
-        "name": "crrF",
-        "rank": 57,
-        "price_usd": "856.43",
-        "percent_change_24h": "3.82",
-        "percent_change_1h": "-1.87",
-        "percent_change_7d": "10.77",
-        "price_btc": "0.099808",
+        "symbol": "LTA",
+        "name": "ugzB",
+        "rank": 94,
+        "price_usd": "339.90",
+        "percent_change_24h": "2.73",
+        "percent_change_1h": "3.89",
+        "percent_change_7d": "-0.94",
+        "price_btc": "0.001197",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "925.44"
+                "price_usd": "721.56"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "180.72"
+                "price_usd": "167.31"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "770.48"
+                "price_usd": "995.60"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "161.74"
+                "price_usd": "871.34"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "20.22"
+                "price_usd": "198.40"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "281.37"
+                "price_usd": "91.00"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "855.83"
+                "price_usd": "719.47"
             }
         ]
     },
     {
         "id": "5",
-        "symbol": "VSJ",
-        "name": "ZsUO",
-        "rank": 26,
-        "price_usd": "91.69",
-        "percent_change_24h": "1.97",
-        "percent_change_1h": "0.01",
-        "percent_change_7d": "9.45",
-        "price_btc": "0.081904",
+        "symbol": "CPG",
+        "name": "pRTk",
+        "rank": 2,
+        "price_usd": "641.57",
+        "percent_change_24h": "-0.38",
+        "percent_change_1h": "2.95",
+        "percent_change_7d": "-3.10",
+        "price_btc": "0.071916",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "575.26"
+                "price_usd": "590.29"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "473.17"
+                "price_usd": "524.04"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "25.25"
+                "price_usd": "601.81"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "714.00"
+                "price_usd": "569.37"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "513.90"
+                "price_usd": "81.60"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "235.16"
+                "price_usd": "359.59"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "853.14"
+                "price_usd": "862.86"
             }
         ]
     },
     {
         "id": "6",
-        "symbol": "CQM",
-        "name": "JuNH",
-        "rank": 49,
-        "price_usd": "105.37",
-        "percent_change_24h": "1.01",
-        "percent_change_1h": "2.04",
-        "percent_change_7d": "-17.27",
-        "price_btc": "0.013599",
+        "symbol": "XZD",
+        "name": "pNMH",
+        "rank": 77,
+        "price_usd": "732.38",
+        "percent_change_24h": "-1.68",
+        "percent_change_1h": "0.25",
+        "percent_change_7d": "-9.97",
+        "price_btc": "0.077851",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "829.65"
+                "price_usd": "253.33"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "129.49"
+                "price_usd": "282.05"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "207.66"
+                "price_usd": "829.08"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "468.40"
+                "price_usd": "328.97"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "826.50"
+                "price_usd": "836.40"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "442.72"
+                "price_usd": "833.60"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "459.02"
+                "price_usd": "897.57"
             }
         ]
     },
     {
         "id": "7",
-        "symbol": "IPU",
-        "name": "XBPM",
-        "rank": 38,
-        "price_usd": "243.33",
+        "symbol": "BMU",
+        "name": "Qnba",
+        "rank": 56,
+        "price_usd": "458.54",
         "percent_change_24h": "3.06",
-        "percent_change_1h": "1.15",
-        "percent_change_7d": "-8.84",
-        "price_btc": "0.035068",
+        "percent_change_1h": "1.07",
+        "percent_change_7d": "-16.03",
+        "price_btc": "0.051217",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "547.81"
+                "price_usd": "815.19"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "656.04"
+                "price_usd": "99.48"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "725.64"
+                "price_usd": "926.23"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "567.84"
+                "price_usd": "973.44"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "653.60"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "856.55"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "938.47"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "symbol": "WMR",
+        "name": "iqIw",
+        "rank": 44,
+        "price_usd": "702.91",
+        "percent_change_24h": "3.91",
+        "percent_change_1h": "-2.95",
+        "percent_change_7d": "3.41",
+        "price_btc": "0.075274",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "257.39"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "800.33"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "609.64"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "587.64"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "588.76"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "404.54"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "758.52"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "symbol": "KRL",
+        "name": "ZiVi",
+        "rank": 87,
+        "price_usd": "764.36",
+        "percent_change_24h": "0.25",
+        "percent_change_1h": "-0.52",
+        "percent_change_7d": "0.46",
+        "price_btc": "0.022873",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "195.16"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "101.50"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "705.26"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "25.75"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "547.51"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "233.82"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "905.88"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "symbol": "KFC",
+        "name": "hFCt",
+        "rank": 13,
+        "price_usd": "207.69",
+        "percent_change_24h": "-5.68",
+        "percent_change_1h": "1.71",
+        "percent_change_7d": "1.09",
+        "price_btc": "0.097488",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "545.02"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "66.06"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "403.61"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "747.73"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "985.30"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "420.85"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "88.02"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "symbol": "JBT",
+        "name": "hTwt",
+        "rank": 90,
+        "price_usd": "71.09",
+        "percent_change_24h": "0.77",
+        "percent_change_1h": "-2.52",
+        "percent_change_7d": "-6.28",
+        "price_btc": "0.055518",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "539.70"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "664.69"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "46.75"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "870.55"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "479.06"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "143.33"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "132.87"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "symbol": "YQE",
+        "name": "vBJz",
+        "rank": 16,
+        "price_usd": "947.30",
+        "percent_change_24h": "4.12",
+        "percent_change_1h": "-3.27",
+        "percent_change_7d": "8.43",
+        "price_btc": "0.099158",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "370.68"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "856.86"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "896.41"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "849.60"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "931.08"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "508.18"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "946.11"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "symbol": "FMU",
+        "name": "vGlx",
+        "rank": 22,
+        "price_usd": "977.73",
+        "percent_change_24h": "7.27",
+        "percent_change_1h": "-3.51",
+        "percent_change_7d": "-7.01",
+        "price_btc": "0.073416",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "349.24"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "492.72"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "921.71"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "667.43"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "662.12"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "893.30"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "27.11"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "symbol": "SCY",
+        "name": "Lkao",
+        "rank": 31,
+        "price_usd": "471.21",
+        "percent_change_24h": "-2.42",
+        "percent_change_1h": "2.17",
+        "percent_change_7d": "-13.64",
+        "price_btc": "0.078027",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "24.07"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "670.26"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "206.96"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "905.03"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "385.11"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "464.83"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "538.42"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "symbol": "KAQ",
+        "name": "COHQ",
+        "rank": 38,
+        "price_usd": "27.13",
+        "percent_change_24h": "-3.80",
+        "percent_change_1h": "0.59",
+        "percent_change_7d": "-7.69",
+        "price_btc": "0.033300",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "871.76"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "909.94"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "651.53"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "341.16"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "956.69"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "360.28"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "857.49"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "symbol": "RTQ",
+        "name": "LeWx",
+        "rank": 18,
+        "price_usd": "858.69",
+        "percent_change_24h": "5.92",
+        "percent_change_1h": "-0.97",
+        "percent_change_7d": "1.98",
+        "price_btc": "0.046400",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "500.00"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "281.98"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "722.95"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "184.55"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "881.62"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "547.54"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "465.67"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "symbol": "GWX",
+        "name": "tENv",
+        "rank": 41,
+        "price_usd": "767.58",
+        "percent_change_24h": "-7.30",
+        "percent_change_1h": "-3.60",
+        "percent_change_7d": "16.13",
+        "price_btc": "0.001547",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "311.89"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "533.38"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "462.64"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "153.31"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "145.44"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "376.26"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "86.57"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "symbol": "QQG",
+        "name": "JOfr",
+        "rank": 51,
+        "price_usd": "931.55",
+        "percent_change_24h": "-3.78",
+        "percent_change_1h": "0.39",
+        "percent_change_7d": "-16.84",
+        "price_btc": "0.097702",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "950.69"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "170.23"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "352.59"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "501.38"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "117.71"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "726.62"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "413.91"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "symbol": "BEL",
+        "name": "bSAL",
+        "rank": 17,
+        "price_usd": "210.74",
+        "percent_change_24h": "3.58",
+        "percent_change_1h": "-4.21",
+        "percent_change_7d": "-12.44",
+        "price_btc": "0.082943",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "52.06"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "232.09"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "812.53"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "281.38"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "666.22"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "697.65"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "666.14"
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "symbol": "IFX",
+        "name": "KNez",
+        "rank": 98,
+        "price_usd": "288.73",
+        "percent_change_24h": "-1.92",
+        "percent_change_1h": "-2.33",
+        "percent_change_7d": "-8.27",
+        "price_btc": "0.042509",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "998.16"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "471.49"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "13.51"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "182.35"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "46.72"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "46.77"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "55.22"
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "symbol": "MGH",
+        "name": "vtNX",
+        "rank": 66,
+        "price_usd": "791.31",
+        "percent_change_24h": "-2.40",
+        "percent_change_1h": "-4.99",
+        "percent_change_7d": "-1.43",
+        "price_btc": "0.044183",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "59.86"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "219.52"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "808.47"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "599.65"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "770.55"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "756.20"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "438.29"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "symbol": "GFV",
+        "name": "eHVK",
+        "rank": 57,
+        "price_usd": "114.80",
+        "percent_change_24h": "1.57",
+        "percent_change_1h": "1.60",
+        "percent_change_7d": "-11.97",
+        "price_btc": "0.076076",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "955.85"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "394.37"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "872.67"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "984.30"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "902.39"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "458.16"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "979.71"
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "symbol": "VPE",
+        "name": "Mnek",
+        "rank": 29,
+        "price_usd": "669.38",
+        "percent_change_24h": "-3.07",
+        "percent_change_1h": "-4.94",
+        "percent_change_7d": "3.23",
+        "price_btc": "0.010319",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "521.50"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "126.15"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "932.17"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "188.83"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "68.39"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "367.75"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "380.69"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "symbol": "AIS",
+        "name": "Wnkt",
+        "rank": 55,
+        "price_usd": "470.69",
+        "percent_change_24h": "-0.53",
+        "percent_change_1h": "-2.88",
+        "percent_change_7d": "-15.45",
+        "price_btc": "0.032137",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "835.13"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "650.52"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "853.38"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "168.40"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "830.20"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "537.42"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "153.33"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "symbol": "AYA",
+        "name": "llVV",
+        "rank": 23,
+        "price_usd": "228.78",
+        "percent_change_24h": "7.69",
+        "percent_change_1h": "3.00",
+        "percent_change_7d": "-5.06",
+        "price_btc": "0.012887",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "350.39"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "78.22"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "167.60"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "568.33"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "702.70"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "286.82"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "289.16"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "symbol": "YVT",
+        "name": "TaDg",
+        "rank": 85,
+        "price_usd": "925.06",
+        "percent_change_24h": "9.15",
+        "percent_change_1h": "2.74",
+        "percent_change_7d": "13.19",
+        "price_btc": "0.024560",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "680.57"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "591.53"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "128.31"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "522.48"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "453.43"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "429.65"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "533.65"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "symbol": "YMU",
+        "name": "qBWO",
+        "rank": 73,
+        "price_usd": "185.85",
+        "percent_change_24h": "-4.00",
+        "percent_change_1h": "2.48",
+        "percent_change_7d": "-15.86",
+        "price_btc": "0.069705",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "652.70"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "49.68"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "935.00"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "325.74"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "302.03"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "597.33"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "517.98"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "symbol": "UXW",
+        "name": "sBSy",
+        "rank": 67,
+        "price_usd": "939.31",
+        "percent_change_24h": "2.57",
+        "percent_change_1h": "-3.04",
+        "percent_change_7d": "8.47",
+        "price_btc": "0.068721",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "248.45"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "302.12"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "564.78"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "839.07"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "988.01"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "89.20"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "238.75"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "symbol": "RCP",
+        "name": "dFJL",
+        "rank": 97,
+        "price_usd": "679.55",
+        "percent_change_24h": "-3.44",
+        "percent_change_1h": "-2.31",
+        "percent_change_7d": "2.90",
+        "price_btc": "0.064534",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "403.14"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "874.92"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "375.42"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "608.28"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "219.72"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "437.82"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "980.72"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "symbol": "CPP",
+        "name": "yenr",
+        "rank": 9,
+        "price_usd": "130.85",
+        "percent_change_24h": "-5.27",
+        "percent_change_1h": "0.31",
+        "percent_change_7d": "-10.17",
+        "price_btc": "0.092081",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "392.72"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "602.33"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "223.41"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "65.00"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "401.43"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "294.64"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "7.93"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "symbol": "RGS",
+        "name": "iyVh",
+        "rank": 54,
+        "price_usd": "790.47",
+        "percent_change_24h": "4.86",
+        "percent_change_1h": "-2.87",
+        "percent_change_7d": "-16.46",
+        "price_btc": "0.038726",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "204.47"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "861.19"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "97.88"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "445.62"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "243.70"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "63.56"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "785.16"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "symbol": "VDP",
+        "name": "RgVk",
+        "rank": 11,
+        "price_usd": "711.06",
+        "percent_change_24h": "4.73",
+        "percent_change_1h": "1.84",
+        "percent_change_7d": "15.44",
+        "price_btc": "0.020939",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "933.58"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "697.25"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "87.61"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "619.70"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "709.80"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "715.62"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "501.20"
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "symbol": "TBF",
+        "name": "PNDk",
+        "rank": 52,
+        "price_usd": "626.31",
+        "percent_change_24h": "-2.73",
+        "percent_change_1h": "3.79",
+        "percent_change_7d": "-11.14",
+        "price_btc": "0.088058",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "10.75"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "891.29"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "423.87"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "457.02"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "655.93"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "177.25"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "961.79"
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "symbol": "KSU",
+        "name": "evVF",
+        "rank": 21,
+        "price_usd": "942.73",
+        "percent_change_24h": "-5.53",
+        "percent_change_1h": "-2.54",
+        "percent_change_7d": "-6.79",
+        "price_btc": "0.033958",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "954.13"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "579.05"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "690.90"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "476.98"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "36.12"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "276.59"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "695.55"
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "symbol": "IRP",
+        "name": "VfjC",
+        "rank": 8,
+        "price_usd": "451.01",
+        "percent_change_24h": "-4.19",
+        "percent_change_1h": "-2.89",
+        "percent_change_7d": "-1.41",
+        "price_btc": "0.059645",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "296.74"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "374.64"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "137.06"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "653.87"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "499.26"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "461.92"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "264.26"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "symbol": "TDI",
+        "name": "MGpm",
+        "rank": 10,
+        "price_usd": "811.81",
+        "percent_change_24h": "-8.73",
+        "percent_change_1h": "1.28",
+        "percent_change_7d": "10.33",
+        "price_btc": "0.015440",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "247.69"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "289.45"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "296.08"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "803.09"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "723.75"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "71.55"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "26.46"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "symbol": "OCC",
+        "name": "XclT",
+        "rank": 14,
+        "price_usd": "852.99",
+        "percent_change_24h": "-4.09",
+        "percent_change_1h": "0.30",
+        "percent_change_7d": "-18.01",
+        "price_btc": "0.049979",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "118.18"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "343.83"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "427.04"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "978.18"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "20.48"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "527.33"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "769.19"
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "symbol": "VTL",
+        "name": "TwYx",
+        "rank": 19,
+        "price_usd": "38.80",
+        "percent_change_24h": "4.56",
+        "percent_change_1h": "3.49",
+        "percent_change_7d": "13.38",
+        "price_btc": "0.024866",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "103.33"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "134.18"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "149.55"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "568.74"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "875.06"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "678.62"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "993.87"
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "symbol": "BWV",
+        "name": "fBQL",
+        "rank": 71,
+        "price_usd": "531.76",
+        "percent_change_24h": "-7.81",
+        "percent_change_1h": "-4.47",
+        "percent_change_7d": "-1.93",
+        "price_btc": "0.093139",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "171.36"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "549.59"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "737.43"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "946.58"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "497.35"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "411.09"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "362.12"
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "symbol": "BGH",
+        "name": "IrhV",
+        "rank": 26,
+        "price_usd": "337.48",
+        "percent_change_24h": "-6.58",
+        "percent_change_1h": "3.32",
+        "percent_change_7d": "9.29",
+        "price_btc": "0.001604",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "48.93"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "508.24"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "474.85"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "105.52"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "663.50"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "759.97"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "432.08"
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "symbol": "BCQ",
+        "name": "mVkz",
+        "rank": 70,
+        "price_usd": "171.37",
+        "percent_change_24h": "9.59",
+        "percent_change_1h": "1.34",
+        "percent_change_7d": "13.37",
+        "price_btc": "0.001489",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "984.75"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "735.26"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "72.94"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "396.44"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "933.91"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "6.74"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "852.23"
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "symbol": "ABB",
+        "name": "yvfb",
+        "rank": 50,
+        "price_usd": "575.67",
+        "percent_change_24h": "0.36",
+        "percent_change_1h": "-0.65",
+        "percent_change_7d": "8.08",
+        "price_btc": "0.032620",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "970.10"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "661.16"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "514.91"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "218.94"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "801.16"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "905.06"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "962.84"
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "symbol": "YEU",
+        "name": "TzBb",
+        "rank": 5,
+        "price_usd": "780.46",
+        "percent_change_24h": "-4.10",
+        "percent_change_1h": "-4.51",
+        "percent_change_7d": "-12.26",
+        "price_btc": "0.083108",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "766.98"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "885.84"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "107.59"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "511.41"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "985.55"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "746.18"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "217.32"
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "symbol": "YCI",
+        "name": "OOUb",
+        "rank": 48,
+        "price_usd": "610.81",
+        "percent_change_24h": "8.73",
+        "percent_change_1h": "-4.26",
+        "percent_change_7d": "-14.62",
+        "price_btc": "0.074633",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "374.85"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "218.88"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "378.96"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "170.08"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "616.90"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "159.69"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "982.19"
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "symbol": "RAR",
+        "name": "RjbK",
+        "rank": 6,
+        "price_usd": "464.53",
+        "percent_change_24h": "0.56",
+        "percent_change_1h": "1.05",
+        "percent_change_7d": "13.51",
+        "price_btc": "0.011331",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "303.44"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "46.92"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "989.66"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "205.40"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "871.77"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "463.47"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "879.59"
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "symbol": "CPL",
+        "name": "YpJj",
+        "rank": 3,
+        "price_usd": "998.07",
+        "percent_change_24h": "-0.55",
+        "percent_change_1h": "3.49",
+        "percent_change_7d": "-17.52",
+        "price_btc": "0.066506",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "619.02"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "715.45"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "101.52"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "588.35"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "159.78"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "649.08"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "522.35"
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "symbol": "KQE",
+        "name": "jmph",
+        "rank": 69,
+        "price_usd": "748.66",
+        "percent_change_24h": "-2.47",
+        "percent_change_1h": "2.62",
+        "percent_change_7d": "-5.57",
+        "price_btc": "0.034497",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "215.86"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "196.49"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "465.46"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "607.89"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "977.08"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "247.66"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "0.65"
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "symbol": "KUN",
+        "name": "Nhbe",
+        "rank": 59,
+        "price_usd": "385.44",
+        "percent_change_24h": "-7.76",
+        "percent_change_1h": "4.09",
+        "percent_change_7d": "-14.57",
+        "price_btc": "0.067577",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "228.04"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "211.25"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "703.75"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "276.48"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "869.38"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "784.92"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "385.40"
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "symbol": "YNL",
+        "name": "WImd",
+        "rank": 27,
+        "price_usd": "398.46",
+        "percent_change_24h": "-5.37",
+        "percent_change_1h": "-2.98",
+        "percent_change_7d": "-7.59",
+        "price_btc": "0.033008",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "695.02"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "946.46"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "797.68"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "815.66"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "374.70"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "200.73"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "95.16"
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "symbol": "ZJJ",
+        "name": "WFVJ",
+        "rank": 96,
+        "price_usd": "99.67",
+        "percent_change_24h": "0.13",
+        "percent_change_1h": "3.16",
+        "percent_change_7d": "5.08",
+        "price_btc": "0.024848",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "228.97"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "736.36"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "339.31"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "255.22"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "743.16"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "873.39"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "86.20"
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "symbol": "GYS",
+        "name": "DTRK",
+        "rank": 40,
+        "price_usd": "564.98",
+        "percent_change_24h": "-1.66",
+        "percent_change_1h": "-0.31",
+        "percent_change_7d": "-3.08",
+        "price_btc": "0.026107",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "472.52"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "480.86"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "42.92"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "292.01"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "447.00"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "874.88"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "334.10"
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "symbol": "MWJ",
+        "name": "MWAI",
+        "rank": 36,
+        "price_usd": "923.09",
+        "percent_change_24h": "3.06",
+        "percent_change_1h": "3.05",
+        "percent_change_7d": "5.56",
+        "price_btc": "0.039156",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "705.27"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "89.52"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "404.02"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "235.65"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "445.61"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "993.75"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "945.00"
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "symbol": "SMF",
+        "name": "CkrL",
+        "rank": 12,
+        "price_usd": "502.54",
+        "percent_change_24h": "8.59",
+        "percent_change_1h": "-2.45",
+        "percent_change_7d": "-16.64",
+        "price_btc": "0.098144",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "793.85"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "712.00"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "964.14"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "454.22"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "584.23"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "715.34"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "616.41"
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "symbol": "RQO",
+        "name": "skDf",
+        "rank": 42,
+        "price_usd": "332.37",
+        "percent_change_24h": "-6.59",
+        "percent_change_1h": "3.04",
+        "percent_change_7d": "-9.39",
+        "price_btc": "0.061502",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "692.82"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "429.81"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "818.01"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "399.23"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "246.04"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "333.49"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "876.54"
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "symbol": "FQW",
+        "name": "shNU",
+        "rank": 35,
+        "price_usd": "899.82",
+        "percent_change_24h": "-0.38",
+        "percent_change_1h": "-2.62",
+        "percent_change_7d": "-11.98",
+        "price_btc": "0.026166",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "563.88"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "989.02"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "735.51"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "422.99"
+            },
+            {
+                "date": "2024-05-13",
+                "price_usd": "858.65"
+            },
+            {
+                "date": "2024-05-12",
+                "price_usd": "138.88"
+            },
+            {
+                "date": "2024-05-11",
+                "price_usd": "776.69"
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "symbol": "FQW",
+        "name": "DBBn",
+        "rank": 72,
+        "price_usd": "437.58",
+        "percent_change_24h": "9.65",
+        "percent_change_1h": "-0.32",
+        "percent_change_7d": "-10.68",
+        "price_btc": "0.063290",
+        "price_usd_last_7_days": [
+            {
+                "date": "2024-05-17",
+                "price_usd": "655.22"
+            },
+            {
+                "date": "2024-05-16",
+                "price_usd": "502.19"
+            },
+            {
+                "date": "2024-05-15",
+                "price_usd": "169.34"
+            },
+            {
+                "date": "2024-05-14",
+                "price_usd": "350.19"
             },
             {
                 "date": "2024-05-13",
@@ -278,3824 +2287,1815 @@
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "22.52"
+                "price_usd": "485.41"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "905.87"
-            }
-        ]
-    },
-    {
-        "id": "8",
-        "symbol": "LII",
-        "name": "jGqK",
-        "rank": 13,
-        "price_usd": "225.73",
-        "percent_change_24h": "8.00",
-        "percent_change_1h": "-0.52",
-        "percent_change_7d": "-12.56",
-        "price_btc": "0.096174",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "74.72"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "228.22"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "481.21"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "114.48"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "824.71"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "626.23"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "743.38"
-            }
-        ]
-    },
-    {
-        "id": "9",
-        "symbol": "TZX",
-        "name": "eNjg",
-        "rank": 45,
-        "price_usd": "660.07",
-        "percent_change_24h": "8.49",
-        "percent_change_1h": "0.13",
-        "percent_change_7d": "11.41",
-        "price_btc": "0.091098",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "796.92"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "614.94"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "981.08"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "430.39"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "946.74"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "284.58"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "911.27"
-            }
-        ]
-    },
-    {
-        "id": "10",
-        "symbol": "ISC",
-        "name": "Fqrd",
-        "rank": 46,
-        "price_usd": "62.27",
-        "percent_change_24h": "-1.69",
-        "percent_change_1h": "1.68",
-        "percent_change_7d": "-8.13",
-        "price_btc": "0.038362",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "578.65"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "308.21"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "799.32"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "206.78"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "102.04"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "765.90"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "57.40"
-            }
-        ]
-    },
-    {
-        "id": "11",
-        "symbol": "XHI",
-        "name": "Mzpm",
-        "rank": 99,
-        "price_usd": "757.53",
-        "percent_change_24h": "-7.44",
-        "percent_change_1h": "4.09",
-        "percent_change_7d": "-19.99",
-        "price_btc": "0.077995",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "748.52"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "192.38"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "320.36"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "12.96"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "364.48"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "964.85"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "920.13"
-            }
-        ]
-    },
-    {
-        "id": "12",
-        "symbol": "CSG",
-        "name": "dauX",
-        "rank": 99,
-        "price_usd": "524.19",
-        "percent_change_24h": "2.49",
-        "percent_change_1h": "-1.86",
-        "percent_change_7d": "17.80",
-        "price_btc": "0.056444",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "27.21"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "620.01"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "84.96"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "584.01"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "272.98"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "148.92"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "511.73"
-            }
-        ]
-    },
-    {
-        "id": "13",
-        "symbol": "MSA",
-        "name": "yWBM",
-        "rank": 57,
-        "price_usd": "463.01",
-        "percent_change_24h": "-1.07",
-        "percent_change_1h": "-1.01",
-        "percent_change_7d": "4.08",
-        "price_btc": "0.049220",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "328.26"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "933.57"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "732.58"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "135.41"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "501.57"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "737.80"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "408.52"
-            }
-        ]
-    },
-    {
-        "id": "14",
-        "symbol": "VQR",
-        "name": "Jszb",
-        "rank": 46,
-        "price_usd": "380.13",
-        "percent_change_24h": "-5.05",
-        "percent_change_1h": "-4.11",
-        "percent_change_7d": "-18.77",
-        "price_btc": "0.076867",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "663.16"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "160.17"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "347.32"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "486.63"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "838.12"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "610.74"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "286.19"
-            }
-        ]
-    },
-    {
-        "id": "15",
-        "symbol": "FER",
-        "name": "Cggb",
-        "rank": 50,
-        "price_usd": "719.14",
-        "percent_change_24h": "-7.27",
-        "percent_change_1h": "-1.03",
-        "percent_change_7d": "19.02",
-        "price_btc": "0.099890",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "661.63"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "56.59"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "38.23"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "223.45"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "349.82"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "170.77"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "587.66"
-            }
-        ]
-    },
-    {
-        "id": "16",
-        "symbol": "WUF",
-        "name": "AzdW",
-        "rank": 1,
-        "price_usd": "597.93",
-        "percent_change_24h": "-0.35",
-        "percent_change_1h": "2.36",
-        "percent_change_7d": "15.38",
-        "price_btc": "0.089793",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "524.22"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "826.78"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "723.70"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "140.50"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "56.38"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "76.26"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "771.32"
-            }
-        ]
-    },
-    {
-        "id": "17",
-        "symbol": "TXD",
-        "name": "inXD",
-        "rank": 83,
-        "price_usd": "149.38",
-        "percent_change_24h": "6.95",
-        "percent_change_1h": "-4.26",
-        "percent_change_7d": "-16.47",
-        "price_btc": "0.083095",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "633.25"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "768.50"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "969.49"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "491.67"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "323.95"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "966.16"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "551.24"
-            }
-        ]
-    },
-    {
-        "id": "18",
-        "symbol": "PYZ",
-        "name": "Rckd",
-        "rank": 93,
-        "price_usd": "5.93",
-        "percent_change_24h": "9.13",
-        "percent_change_1h": "-2.28",
-        "percent_change_7d": "-16.00",
-        "price_btc": "0.059801",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "750.24"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "453.35"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "516.41"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "590.27"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "856.60"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "820.05"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "271.26"
-            }
-        ]
-    },
-    {
-        "id": "19",
-        "symbol": "BDU",
-        "name": "lRnd",
-        "rank": 86,
-        "price_usd": "262.53",
-        "percent_change_24h": "-4.92",
-        "percent_change_1h": "0.78",
-        "percent_change_7d": "8.64",
-        "price_btc": "0.002134",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "282.58"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "691.25"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "447.45"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "125.11"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "302.27"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "868.78"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "539.73"
-            }
-        ]
-    },
-    {
-        "id": "20",
-        "symbol": "UKO",
-        "name": "EcZx",
-        "rank": 89,
-        "price_usd": "893.87",
-        "percent_change_24h": "-2.70",
-        "percent_change_1h": "2.58",
-        "percent_change_7d": "-9.24",
-        "price_btc": "0.088696",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "942.30"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "530.88"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "79.85"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "552.34"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "80.66"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "74.44"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "367.14"
-            }
-        ]
-    },
-    {
-        "id": "21",
-        "symbol": "PFC",
-        "name": "oqOM",
-        "rank": 76,
-        "price_usd": "271.62",
-        "percent_change_24h": "-9.55",
-        "percent_change_1h": "-0.70",
-        "percent_change_7d": "5.38",
-        "price_btc": "0.082603",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "258.74"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "152.93"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "919.28"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "558.46"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "113.07"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "217.64"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "221.88"
-            }
-        ]
-    },
-    {
-        "id": "22",
-        "symbol": "IBV",
-        "name": "ZTXg",
-        "rank": 94,
-        "price_usd": "892.06",
-        "percent_change_24h": "-6.03",
-        "percent_change_1h": "2.52",
-        "percent_change_7d": "17.09",
-        "price_btc": "0.089838",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "886.34"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "399.84"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "168.37"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "594.74"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "272.20"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "285.71"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "184.33"
-            }
-        ]
-    },
-    {
-        "id": "23",
-        "symbol": "ZTG",
-        "name": "wJcN",
-        "rank": 10,
-        "price_usd": "269.14",
-        "percent_change_24h": "-6.43",
-        "percent_change_1h": "3.09",
-        "percent_change_7d": "11.34",
-        "price_btc": "0.055104",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "465.21"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "474.90"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "917.08"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "530.14"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "390.64"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "989.35"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "330.48"
-            }
-        ]
-    },
-    {
-        "id": "24",
-        "symbol": "ONB",
-        "name": "PrZM",
-        "rank": 70,
-        "price_usd": "235.74",
-        "percent_change_24h": "-3.43",
-        "percent_change_1h": "-1.11",
-        "percent_change_7d": "1.52",
-        "price_btc": "0.067001",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "437.66"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "345.96"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "125.41"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "935.69"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "153.59"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "138.91"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "13.29"
-            }
-        ]
-    },
-    {
-        "id": "25",
-        "symbol": "BSA",
-        "name": "vJSK",
-        "rank": 18,
-        "price_usd": "123.65",
-        "percent_change_24h": "-8.54",
-        "percent_change_1h": "-0.72",
-        "percent_change_7d": "-5.75",
-        "price_btc": "0.059570",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "220.51"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "814.06"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "850.93"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "592.67"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "993.15"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "220.17"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "300.61"
-            }
-        ]
-    },
-    {
-        "id": "26",
-        "symbol": "YWC",
-        "name": "cwcN",
-        "rank": 71,
-        "price_usd": "334.99",
-        "percent_change_24h": "2.97",
-        "percent_change_1h": "-3.66",
-        "percent_change_7d": "-10.83",
-        "price_btc": "0.032339",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "907.60"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "216.31"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "455.17"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "112.65"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "226.82"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "445.26"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "573.77"
-            }
-        ]
-    },
-    {
-        "id": "27",
-        "symbol": "OJO",
-        "name": "LQrF",
-        "rank": 50,
-        "price_usd": "621.89",
-        "percent_change_24h": "-4.26",
-        "percent_change_1h": "-4.09",
-        "percent_change_7d": "1.23",
-        "price_btc": "0.074383",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "333.36"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "471.18"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "781.78"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "467.78"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "982.85"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "968.88"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "445.82"
-            }
-        ]
-    },
-    {
-        "id": "28",
-        "symbol": "URD",
-        "name": "fhIu",
-        "rank": 47,
-        "price_usd": "882.48",
-        "percent_change_24h": "7.42",
-        "percent_change_1h": "-2.08",
-        "percent_change_7d": "-18.62",
-        "price_btc": "0.086673",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "636.04"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "629.06"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "447.98"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "76.37"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "112.94"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "334.90"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "783.30"
-            }
-        ]
-    },
-    {
-        "id": "29",
-        "symbol": "GVH",
-        "name": "Msvn",
-        "rank": 28,
-        "price_usd": "360.54",
-        "percent_change_24h": "-2.43",
-        "percent_change_1h": "2.82",
-        "percent_change_7d": "3.16",
-        "price_btc": "0.090917",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "714.79"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "290.39"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "446.06"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "444.08"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "729.65"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "867.89"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "410.11"
-            }
-        ]
-    },
-    {
-        "id": "30",
-        "symbol": "AXB",
-        "name": "UaLo",
-        "rank": 22,
-        "price_usd": "363.52",
-        "percent_change_24h": "-2.12",
-        "percent_change_1h": "-2.01",
-        "percent_change_7d": "19.39",
-        "price_btc": "0.058975",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "994.69"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "510.96"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "612.97"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "198.93"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "214.65"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "658.93"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "42.28"
-            }
-        ]
-    },
-    {
-        "id": "31",
-        "symbol": "VLX",
-        "name": "YuFK",
-        "rank": 80,
-        "price_usd": "218.61",
-        "percent_change_24h": "9.57",
-        "percent_change_1h": "-2.78",
-        "percent_change_7d": "-0.72",
-        "price_btc": "0.093316",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "739.19"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "1.79"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "523.05"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "433.26"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "582.20"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "249.52"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "772.65"
-            }
-        ]
-    },
-    {
-        "id": "32",
-        "symbol": "WFA",
-        "name": "iqqp",
-        "rank": 50,
-        "price_usd": "759.20",
-        "percent_change_24h": "-8.26",
-        "percent_change_1h": "-2.43",
-        "percent_change_7d": "-18.38",
-        "price_btc": "0.009582",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "135.99"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "796.08"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "100.95"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "423.42"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "197.08"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "655.78"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "713.13"
-            }
-        ]
-    },
-    {
-        "id": "33",
-        "symbol": "ZRC",
-        "name": "xqEo",
-        "rank": 7,
-        "price_usd": "511.25",
-        "percent_change_24h": "-5.21",
-        "percent_change_1h": "4.71",
-        "percent_change_7d": "-6.00",
-        "price_btc": "0.072384",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "40.27"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "889.48"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "922.28"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "592.92"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "364.62"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "341.52"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "782.44"
-            }
-        ]
-    },
-    {
-        "id": "34",
-        "symbol": "ZBP",
-        "name": "fnoe",
-        "rank": 46,
-        "price_usd": "24.39",
-        "percent_change_24h": "-2.85",
-        "percent_change_1h": "0.49",
-        "percent_change_7d": "-7.25",
-        "price_btc": "0.035871",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "934.21"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "199.78"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "108.56"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "160.50"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "834.00"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "776.00"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "440.90"
-            }
-        ]
-    },
-    {
-        "id": "35",
-        "symbol": "XYB",
-        "name": "IQNJ",
-        "rank": 39,
-        "price_usd": "646.52",
-        "percent_change_24h": "-6.51",
-        "percent_change_1h": "3.54",
-        "percent_change_7d": "-17.27",
-        "price_btc": "0.081206",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "849.02"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "437.61"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "57.82"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "238.66"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "28.82"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "890.79"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "494.04"
-            }
-        ]
-    },
-    {
-        "id": "36",
-        "symbol": "FCO",
-        "name": "Jdpi",
-        "rank": 24,
-        "price_usd": "780.08",
-        "percent_change_24h": "3.70",
-        "percent_change_1h": "0.19",
-        "percent_change_7d": "18.91",
-        "price_btc": "0.066716",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "535.76"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "445.72"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "68.77"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "111.46"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "776.35"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "829.23"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "874.92"
-            }
-        ]
-    },
-    {
-        "id": "37",
-        "symbol": "GDR",
-        "name": "weCR",
-        "rank": 67,
-        "price_usd": "213.06",
-        "percent_change_24h": "-3.33",
-        "percent_change_1h": "2.74",
-        "percent_change_7d": "-7.16",
-        "price_btc": "0.070591",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "17.47"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "509.83"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "650.06"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "57.70"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "384.67"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "230.79"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "28.89"
-            }
-        ]
-    },
-    {
-        "id": "38",
-        "symbol": "UQR",
-        "name": "NqMd",
-        "rank": 98,
-        "price_usd": "702.75",
-        "percent_change_24h": "8.53",
-        "percent_change_1h": "0.37",
-        "percent_change_7d": "10.80",
-        "price_btc": "0.023007",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "205.48"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "994.32"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "885.40"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "723.77"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "130.12"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "301.13"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "110.89"
-            }
-        ]
-    },
-    {
-        "id": "39",
-        "symbol": "ACI",
-        "name": "dyxw",
-        "rank": 86,
-        "price_usd": "17.87",
-        "percent_change_24h": "-1.64",
-        "percent_change_1h": "4.34",
-        "percent_change_7d": "-8.37",
-        "price_btc": "0.025447",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "508.72"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "487.10"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "856.70"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "804.18"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "912.92"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "796.08"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "827.39"
-            }
-        ]
-    },
-    {
-        "id": "40",
-        "symbol": "PJK",
-        "name": "xSva",
-        "rank": 58,
-        "price_usd": "212.12",
-        "percent_change_24h": "-7.90",
-        "percent_change_1h": "2.43",
-        "percent_change_7d": "-2.76",
-        "price_btc": "0.062448",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "115.21"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "652.81"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "401.15"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "243.84"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "540.68"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "662.36"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "963.25"
-            }
-        ]
-    },
-    {
-        "id": "41",
-        "symbol": "HPR",
-        "name": "bWbq",
-        "rank": 61,
-        "price_usd": "947.33",
-        "percent_change_24h": "-3.71",
-        "percent_change_1h": "2.87",
-        "percent_change_7d": "-18.67",
-        "price_btc": "0.002960",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "978.70"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "200.06"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "674.26"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "191.66"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "857.90"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "369.77"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "460.12"
-            }
-        ]
-    },
-    {
-        "id": "42",
-        "symbol": "PGL",
-        "name": "bzQE",
-        "rank": 53,
-        "price_usd": "402.77",
-        "percent_change_24h": "6.19",
-        "percent_change_1h": "-2.90",
-        "percent_change_7d": "-18.63",
-        "price_btc": "0.095645",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "573.80"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "375.52"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "660.65"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "928.87"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "983.63"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "532.96"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "604.47"
-            }
-        ]
-    },
-    {
-        "id": "43",
-        "symbol": "AHK",
-        "name": "gOJW",
-        "rank": 67,
-        "price_usd": "969.37",
-        "percent_change_24h": "-7.37",
-        "percent_change_1h": "-1.10",
-        "percent_change_7d": "14.10",
-        "price_btc": "0.034026",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "270.96"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "753.84"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "713.71"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "979.62"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "694.43"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "730.98"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "464.99"
-            }
-        ]
-    },
-    {
-        "id": "44",
-        "symbol": "IEK",
-        "name": "PGud",
-        "rank": 97,
-        "price_usd": "955.48",
-        "percent_change_24h": "-2.97",
-        "percent_change_1h": "0.64",
-        "percent_change_7d": "-0.68",
-        "price_btc": "0.010878",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "204.83"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "850.45"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "544.64"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "168.43"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "526.22"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "982.65"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "358.73"
-            }
-        ]
-    },
-    {
-        "id": "45",
-        "symbol": "YFH",
-        "name": "czoB",
-        "rank": 44,
-        "price_usd": "145.87",
-        "percent_change_24h": "8.73",
-        "percent_change_1h": "-1.60",
-        "percent_change_7d": "18.55",
-        "price_btc": "0.084192",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "471.18"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "485.51"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "72.51"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "773.13"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "934.64"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "399.34"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "163.78"
-            }
-        ]
-    },
-    {
-        "id": "46",
-        "symbol": "VTJ",
-        "name": "QEaE",
-        "rank": 99,
-        "price_usd": "336.71",
-        "percent_change_24h": "4.02",
-        "percent_change_1h": "2.95",
-        "percent_change_7d": "-9.10",
-        "price_btc": "0.063685",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "465.71"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "934.14"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "699.41"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "514.00"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "877.38"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "634.40"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "213.96"
-            }
-        ]
-    },
-    {
-        "id": "47",
-        "symbol": "GFW",
-        "name": "UwMI",
-        "rank": 3,
-        "price_usd": "953.89",
-        "percent_change_24h": "-8.73",
-        "percent_change_1h": "2.87",
-        "percent_change_7d": "0.82",
-        "price_btc": "0.020139",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "614.52"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "400.35"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "644.60"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "593.15"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "776.90"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "941.16"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "736.65"
-            }
-        ]
-    },
-    {
-        "id": "48",
-        "symbol": "CFI",
-        "name": "oued",
-        "rank": 76,
-        "price_usd": "1.46",
-        "percent_change_24h": "0.89",
-        "percent_change_1h": "-2.54",
-        "percent_change_7d": "-15.48",
-        "price_btc": "0.049246",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "127.88"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "55.16"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "141.79"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "672.69"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "97.62"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "23.05"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "907.39"
-            }
-        ]
-    },
-    {
-        "id": "49",
-        "symbol": "NFU",
-        "name": "RzQh",
-        "rank": 78,
-        "price_usd": "871.35",
-        "percent_change_24h": "-6.88",
-        "percent_change_1h": "0.20",
-        "percent_change_7d": "7.00",
-        "price_btc": "0.061024",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "162.11"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "854.46"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "873.84"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "173.14"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "595.80"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "969.43"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "254.01"
-            }
-        ]
-    },
-    {
-        "id": "50",
-        "symbol": "UTT",
-        "name": "bBLp",
-        "rank": 36,
-        "price_usd": "237.80",
-        "percent_change_24h": "-7.14",
-        "percent_change_1h": "3.72",
-        "percent_change_7d": "3.95",
-        "price_btc": "0.096169",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "101.40"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "719.94"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "323.44"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "643.14"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "32.66"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "427.09"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "990.07"
-            }
-        ]
-    },
-    {
-        "id": "51",
-        "symbol": "NBU",
-        "name": "Razo",
-        "rank": 37,
-        "price_usd": "290.74",
-        "percent_change_24h": "-3.37",
-        "percent_change_1h": "-0.61",
-        "percent_change_7d": "8.83",
-        "price_btc": "0.030033",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "22.81"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "692.15"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "441.94"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "124.11"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "885.36"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "458.90"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "706.98"
-            }
-        ]
-    },
-    {
-        "id": "52",
-        "symbol": "ZPY",
-        "name": "PtAY",
-        "rank": 17,
-        "price_usd": "38.08",
-        "percent_change_24h": "-4.28",
-        "percent_change_1h": "-2.50",
-        "percent_change_7d": "-8.22",
-        "price_btc": "0.078466",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "517.10"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "128.26"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "531.87"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "394.47"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "142.02"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "968.96"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "908.41"
-            }
-        ]
-    },
-    {
-        "id": "53",
-        "symbol": "EFP",
-        "name": "MXDW",
-        "rank": 41,
-        "price_usd": "920.86",
-        "percent_change_24h": "-2.98",
-        "percent_change_1h": "-4.02",
-        "percent_change_7d": "9.41",
-        "price_btc": "0.062301",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "153.61"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "760.52"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "538.47"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "51.12"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "527.32"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "3.31"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "628.51"
-            }
-        ]
-    },
-    {
-        "id": "54",
-        "symbol": "ZJO",
-        "name": "iHWL",
-        "rank": 66,
-        "price_usd": "220.84",
-        "percent_change_24h": "-2.98",
-        "percent_change_1h": "-1.15",
-        "percent_change_7d": "10.96",
-        "price_btc": "0.024238",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "171.51"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "259.75"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "146.68"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "642.78"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "995.95"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "575.11"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "456.81"
-            }
-        ]
-    },
-    {
-        "id": "55",
-        "symbol": "HZT",
-        "name": "nFEF",
-        "rank": 64,
-        "price_usd": "983.79",
-        "percent_change_24h": "-5.06",
-        "percent_change_1h": "-3.89",
-        "percent_change_7d": "-10.29",
-        "price_btc": "0.051482",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "867.92"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "655.91"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "717.69"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "440.33"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "598.23"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "597.56"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "69.06"
-            }
-        ]
-    },
-    {
-        "id": "56",
-        "symbol": "BML",
-        "name": "ApPY",
-        "rank": 48,
-        "price_usd": "757.92",
-        "percent_change_24h": "-4.46",
-        "percent_change_1h": "4.16",
-        "percent_change_7d": "-18.71",
-        "price_btc": "0.087221",
-        "price_usd_last_7_days": [
-            {
-                "date": "2024-05-17",
-                "price_usd": "420.49"
-            },
-            {
-                "date": "2024-05-16",
-                "price_usd": "668.48"
-            },
-            {
-                "date": "2024-05-15",
-                "price_usd": "370.39"
-            },
-            {
-                "date": "2024-05-14",
-                "price_usd": "59.09"
-            },
-            {
-                "date": "2024-05-13",
-                "price_usd": "692.94"
-            },
-            {
-                "date": "2024-05-12",
-                "price_usd": "143.85"
-            },
-            {
-                "date": "2024-05-11",
-                "price_usd": "998.97"
+                "price_usd": "456.67"
             }
         ]
     },
     {
         "id": "57",
-        "symbol": "SWI",
-        "name": "Mnkc",
-        "rank": 45,
-        "price_usd": "856.50",
-        "percent_change_24h": "8.63",
-        "percent_change_1h": "-1.89",
-        "percent_change_7d": "0.85",
-        "price_btc": "0.087866",
+        "symbol": "VHO",
+        "name": "myoN",
+        "rank": 93,
+        "price_usd": "17.29",
+        "percent_change_24h": "1.72",
+        "percent_change_1h": "-4.21",
+        "percent_change_7d": "-17.76",
+        "price_btc": "0.059404",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "921.34"
+                "price_usd": "819.69"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "260.41"
+                "price_usd": "702.72"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "123.24"
+                "price_usd": "29.02"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "40.79"
+                "price_usd": "290.56"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "809.28"
+                "price_usd": "462.13"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "21.06"
+                "price_usd": "566.24"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "17.20"
+                "price_usd": "579.33"
             }
         ]
     },
     {
         "id": "58",
-        "symbol": "QGL",
-        "name": "xSFY",
-        "rank": 31,
-        "price_usd": "206.91",
-        "percent_change_24h": "-4.39",
-        "percent_change_1h": "0.94",
-        "percent_change_7d": "-17.95",
-        "price_btc": "0.047846",
+        "symbol": "NIG",
+        "name": "DqGk",
+        "rank": 15,
+        "price_usd": "454.36",
+        "percent_change_24h": "-1.84",
+        "percent_change_1h": "4.14",
+        "percent_change_7d": "-3.34",
+        "price_btc": "0.036016",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "428.94"
+                "price_usd": "835.85"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "78.05"
+                "price_usd": "993.06"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "318.53"
+                "price_usd": "481.14"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "726.10"
+                "price_usd": "729.99"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "968.09"
+                "price_usd": "585.82"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "326.17"
+                "price_usd": "95.32"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "684.90"
+                "price_usd": "799.95"
             }
         ]
     },
     {
         "id": "59",
-        "symbol": "ICB",
-        "name": "HYpx",
-        "rank": 12,
-        "price_usd": "176.06",
-        "percent_change_24h": "6.28",
-        "percent_change_1h": "1.71",
-        "percent_change_7d": "-9.38",
-        "price_btc": "0.047237",
+        "symbol": "YGF",
+        "name": "mEEg",
+        "rank": 20,
+        "price_usd": "8.27",
+        "percent_change_24h": "8.31",
+        "percent_change_1h": "-2.30",
+        "percent_change_7d": "-7.66",
+        "price_btc": "0.073940",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "584.22"
+                "price_usd": "447.53"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "418.34"
+                "price_usd": "962.27"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "622.45"
+                "price_usd": "134.32"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "396.62"
+                "price_usd": "438.00"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "644.51"
+                "price_usd": "381.25"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "54.21"
+                "price_usd": "220.93"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "74.96"
+                "price_usd": "575.84"
             }
         ]
     },
     {
         "id": "60",
-        "symbol": "JEY",
-        "name": "nONE",
-        "rank": 66,
-        "price_usd": "441.12",
-        "percent_change_24h": "-3.11",
-        "percent_change_1h": "-2.62",
-        "percent_change_7d": "15.04",
-        "price_btc": "0.020336",
+        "symbol": "YIL",
+        "name": "GuYU",
+        "rank": 60,
+        "price_usd": "752.09",
+        "percent_change_24h": "0.98",
+        "percent_change_1h": "-3.74",
+        "percent_change_7d": "8.96",
+        "price_btc": "0.064026",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "161.68"
+                "price_usd": "321.76"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "147.24"
+                "price_usd": "9.79"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "993.58"
+                "price_usd": "658.13"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "889.45"
+                "price_usd": "256.93"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "351.36"
+                "price_usd": "424.95"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "482.44"
+                "price_usd": "501.57"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "768.44"
+                "price_usd": "17.59"
             }
         ]
     },
     {
         "id": "61",
-        "symbol": "WSL",
-        "name": "oTyu",
-        "rank": 44,
-        "price_usd": "791.97",
-        "percent_change_24h": "-9.06",
-        "percent_change_1h": "-1.19",
-        "percent_change_7d": "-0.41",
-        "price_btc": "0.001138",
+        "symbol": "GZU",
+        "name": "JdlP",
+        "rank": 47,
+        "price_usd": "13.12",
+        "percent_change_24h": "-6.38",
+        "percent_change_1h": "-2.24",
+        "percent_change_7d": "12.36",
+        "price_btc": "0.097792",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "482.19"
+                "price_usd": "349.21"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "476.91"
+                "price_usd": "8.48"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "847.92"
+                "price_usd": "292.20"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "565.07"
+                "price_usd": "845.31"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "988.03"
+                "price_usd": "879.39"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "44.80"
+                "price_usd": "884.39"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "156.03"
+                "price_usd": "861.45"
             }
         ]
     },
     {
         "id": "62",
-        "symbol": "ATY",
-        "name": "GmYc",
-        "rank": 60,
-        "price_usd": "779.37",
-        "percent_change_24h": "1.60",
-        "percent_change_1h": "1.28",
-        "percent_change_7d": "-0.05",
-        "price_btc": "0.000216",
+        "symbol": "TCC",
+        "name": "Ctbg",
+        "rank": 1,
+        "price_usd": "529.35",
+        "percent_change_24h": "4.16",
+        "percent_change_1h": "-3.58",
+        "percent_change_7d": "-9.65",
+        "price_btc": "0.089226",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "694.68"
+                "price_usd": "560.44"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "672.20"
+                "price_usd": "534.51"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "773.51"
+                "price_usd": "26.51"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "705.42"
+                "price_usd": "943.25"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "493.15"
+                "price_usd": "64.08"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "821.41"
+                "price_usd": "72.17"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "786.77"
+                "price_usd": "555.41"
             }
         ]
     },
     {
         "id": "63",
-        "symbol": "ZPP",
-        "name": "SsXT",
-        "rank": 54,
-        "price_usd": "607.84",
-        "percent_change_24h": "6.87",
-        "percent_change_1h": "-0.76",
-        "percent_change_7d": "-1.31",
-        "price_btc": "0.016590",
+        "symbol": "HBB",
+        "name": "ZKzD",
+        "rank": 46,
+        "price_usd": "696.56",
+        "percent_change_24h": "-1.77",
+        "percent_change_1h": "-1.34",
+        "percent_change_7d": "-14.61",
+        "price_btc": "0.035408",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "355.54"
+                "price_usd": "151.85"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "828.86"
+                "price_usd": "154.44"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "811.48"
+                "price_usd": "123.18"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "289.13"
+                "price_usd": "640.23"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "148.74"
+                "price_usd": "287.56"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "446.52"
+                "price_usd": "635.43"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "863.75"
+                "price_usd": "297.13"
             }
         ]
     },
     {
         "id": "64",
-        "symbol": "MYS",
-        "name": "Dzbn",
-        "rank": 41,
-        "price_usd": "130.77",
-        "percent_change_24h": "0.24",
-        "percent_change_1h": "2.81",
-        "percent_change_7d": "-14.13",
-        "price_btc": "0.080189",
+        "symbol": "EJP",
+        "name": "JeuC",
+        "rank": 78,
+        "price_usd": "936.67",
+        "percent_change_24h": "-8.46",
+        "percent_change_1h": "1.08",
+        "percent_change_7d": "-6.79",
+        "price_btc": "0.099978",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "971.79"
+                "price_usd": "152.63"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "952.76"
+                "price_usd": "344.24"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "682.08"
+                "price_usd": "602.98"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "615.75"
+                "price_usd": "88.01"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "69.15"
+                "price_usd": "364.57"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "278.11"
+                "price_usd": "526.79"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "988.79"
+                "price_usd": "446.56"
             }
         ]
     },
     {
         "id": "65",
-        "symbol": "JQY",
-        "name": "itjh",
-        "rank": 22,
-        "price_usd": "54.98",
-        "percent_change_24h": "9.89",
-        "percent_change_1h": "-0.17",
-        "percent_change_7d": "-6.64",
-        "price_btc": "0.091124",
+        "symbol": "DYK",
+        "name": "MUpl",
+        "rank": 91,
+        "price_usd": "128.60",
+        "percent_change_24h": "1.91",
+        "percent_change_1h": "-0.96",
+        "percent_change_7d": "4.87",
+        "price_btc": "0.076772",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "742.14"
+                "price_usd": "700.60"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "493.21"
+                "price_usd": "161.53"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "601.34"
+                "price_usd": "778.55"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "157.60"
+                "price_usd": "829.72"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "791.27"
+                "price_usd": "901.80"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "707.96"
+                "price_usd": "256.78"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "880.05"
+                "price_usd": "103.08"
             }
         ]
     },
     {
         "id": "66",
-        "symbol": "LWW",
-        "name": "aMiC",
-        "rank": 40,
-        "price_usd": "306.11",
-        "percent_change_24h": "-7.83",
-        "percent_change_1h": "4.40",
-        "percent_change_7d": "2.56",
-        "price_btc": "0.046216",
+        "symbol": "TDD",
+        "name": "QmHh",
+        "rank": 86,
+        "price_usd": "849.13",
+        "percent_change_24h": "9.13",
+        "percent_change_1h": "0.21",
+        "percent_change_7d": "-3.72",
+        "price_btc": "0.058863",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "52.49"
+                "price_usd": "78.68"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "479.10"
+                "price_usd": "744.27"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "548.12"
+                "price_usd": "479.33"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "59.55"
+                "price_usd": "858.08"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "247.25"
+                "price_usd": "181.79"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "61.62"
+                "price_usd": "627.71"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "900.65"
+                "price_usd": "880.10"
             }
         ]
     },
     {
         "id": "67",
-        "symbol": "XYO",
-        "name": "mHSW",
-        "rank": 9,
-        "price_usd": "146.74",
-        "percent_change_24h": "4.21",
-        "percent_change_1h": "-2.16",
-        "percent_change_7d": "-19.97",
-        "price_btc": "0.071846",
+        "symbol": "TKQ",
+        "name": "HBnC",
+        "rank": 49,
+        "price_usd": "863.03",
+        "percent_change_24h": "4.08",
+        "percent_change_1h": "0.98",
+        "percent_change_7d": "10.26",
+        "price_btc": "0.072403",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "216.69"
+                "price_usd": "631.93"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "289.57"
+                "price_usd": "154.68"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "112.01"
+                "price_usd": "469.55"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "325.80"
+                "price_usd": "919.53"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "580.41"
+                "price_usd": "569.12"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "908.48"
+                "price_usd": "754.37"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "616.65"
+                "price_usd": "333.23"
             }
         ]
     },
     {
         "id": "68",
-        "symbol": "XIG",
-        "name": "GCbL",
-        "rank": 57,
-        "price_usd": "928.25",
-        "percent_change_24h": "-3.19",
-        "percent_change_1h": "3.46",
-        "percent_change_7d": "-16.91",
-        "price_btc": "0.018944",
+        "symbol": "AFB",
+        "name": "ixky",
+        "rank": 7,
+        "price_usd": "436.41",
+        "percent_change_24h": "5.80",
+        "percent_change_1h": "-4.26",
+        "percent_change_7d": "8.54",
+        "price_btc": "0.006105",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "182.16"
+                "price_usd": "192.37"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "969.31"
+                "price_usd": "452.05"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "241.52"
+                "price_usd": "209.91"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "742.44"
+                "price_usd": "909.86"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "609.33"
+                "price_usd": "878.51"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "61.31"
+                "price_usd": "50.24"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "172.87"
+                "price_usd": "750.63"
             }
         ]
     },
     {
         "id": "69",
-        "symbol": "IFR",
-        "name": "kWYg",
-        "rank": 32,
-        "price_usd": "879.63",
-        "percent_change_24h": "-9.31",
-        "percent_change_1h": "-0.92",
-        "percent_change_7d": "6.93",
-        "price_btc": "0.000593",
+        "symbol": "IFL",
+        "name": "jyfU",
+        "rank": 4,
+        "price_usd": "848.44",
+        "percent_change_24h": "-4.21",
+        "percent_change_1h": "-2.13",
+        "percent_change_7d": "6.63",
+        "price_btc": "0.095477",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "231.89"
+                "price_usd": "263.14"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "959.36"
+                "price_usd": "561.47"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "522.34"
+                "price_usd": "103.25"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "679.82"
+                "price_usd": "287.90"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "891.67"
+                "price_usd": "933.61"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "583.64"
+                "price_usd": "805.59"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "272.30"
+                "price_usd": "822.05"
             }
         ]
     },
     {
         "id": "70",
-        "symbol": "ICV",
-        "name": "ivRv",
-        "rank": 62,
-        "price_usd": "947.07",
-        "percent_change_24h": "-0.07",
-        "percent_change_1h": "-1.56",
-        "percent_change_7d": "17.82",
-        "price_btc": "0.054543",
+        "symbol": "RTJ",
+        "name": "kaJd",
+        "rank": 65,
+        "price_usd": "497.71",
+        "percent_change_24h": "2.64",
+        "percent_change_1h": "0.46",
+        "percent_change_7d": "-7.15",
+        "price_btc": "0.065019",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "654.51"
+                "price_usd": "494.14"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "976.12"
+                "price_usd": "219.81"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "567.67"
+                "price_usd": "111.97"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "759.07"
+                "price_usd": "949.06"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "469.98"
+                "price_usd": "785.26"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "281.75"
+                "price_usd": "642.07"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "441.05"
+                "price_usd": "127.87"
             }
         ]
     },
     {
         "id": "71",
-        "symbol": "LVR",
-        "name": "sfEq",
-        "rank": 84,
-        "price_usd": "501.71",
-        "percent_change_24h": "-9.58",
-        "percent_change_1h": "2.22",
-        "percent_change_7d": "-6.21",
-        "price_btc": "0.071839",
+        "symbol": "RCH",
+        "name": "BFoM",
+        "rank": 33,
+        "price_usd": "377.97",
+        "percent_change_24h": "0.43",
+        "percent_change_1h": "-2.54",
+        "percent_change_7d": "11.63",
+        "price_btc": "0.097097",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "717.32"
+                "price_usd": "723.62"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "302.41"
+                "price_usd": "656.84"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "785.46"
+                "price_usd": "885.70"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "929.75"
+                "price_usd": "253.80"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "525.50"
+                "price_usd": "320.75"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "977.53"
+                "price_usd": "433.22"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "1.52"
+                "price_usd": "515.71"
             }
         ]
     },
     {
         "id": "72",
-        "symbol": "BRM",
-        "name": "owkt",
-        "rank": 21,
-        "price_usd": "894.53",
-        "percent_change_24h": "-8.17",
-        "percent_change_1h": "-4.44",
-        "percent_change_7d": "-10.29",
-        "price_btc": "0.067128",
+        "symbol": "BCH",
+        "name": "VKkF",
+        "rank": 82,
+        "price_usd": "166.75",
+        "percent_change_24h": "9.76",
+        "percent_change_1h": "-1.85",
+        "percent_change_7d": "-0.71",
+        "price_btc": "0.024145",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "875.43"
+                "price_usd": "411.14"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "299.08"
+                "price_usd": "578.40"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "484.82"
+                "price_usd": "305.96"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "549.75"
+                "price_usd": "406.97"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "801.22"
+                "price_usd": "402.99"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "283.16"
+                "price_usd": "534.46"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "133.99"
+                "price_usd": "242.81"
             }
         ]
     },
     {
         "id": "73",
-        "symbol": "YQR",
-        "name": "Qnfm",
-        "rank": 55,
-        "price_usd": "830.72",
-        "percent_change_24h": "-5.32",
-        "percent_change_1h": "-3.80",
-        "percent_change_7d": "18.52",
-        "price_btc": "0.007066",
+        "symbol": "XGL",
+        "name": "TXaa",
+        "rank": 39,
+        "price_usd": "286.51",
+        "percent_change_24h": "5.89",
+        "percent_change_1h": "3.59",
+        "percent_change_7d": "-13.30",
+        "price_btc": "0.030432",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "755.58"
+                "price_usd": "861.42"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "217.66"
+                "price_usd": "979.65"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "730.31"
+                "price_usd": "903.95"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "848.88"
+                "price_usd": "195.21"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "446.77"
+                "price_usd": "117.61"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "810.10"
+                "price_usd": "568.85"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "28.74"
+                "price_usd": "154.84"
             }
         ]
     },
     {
         "id": "74",
-        "symbol": "RIR",
-        "name": "sRxN",
-        "rank": 80,
-        "price_usd": "105.25",
-        "percent_change_24h": "-5.44",
-        "percent_change_1h": "2.94",
-        "percent_change_7d": "-8.20",
-        "price_btc": "0.042352",
+        "symbol": "IVM",
+        "name": "MpXB",
+        "rank": 88,
+        "price_usd": "10.29",
+        "percent_change_24h": "2.72",
+        "percent_change_1h": "-2.42",
+        "percent_change_7d": "8.94",
+        "price_btc": "0.021357",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "706.37"
+                "price_usd": "947.61"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "797.43"
+                "price_usd": "462.62"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "183.05"
+                "price_usd": "113.96"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "847.69"
+                "price_usd": "388.92"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "275.12"
+                "price_usd": "238.32"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "116.52"
+                "price_usd": "337.65"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "645.04"
+                "price_usd": "264.36"
             }
         ]
     },
     {
         "id": "75",
-        "symbol": "CJN",
-        "name": "siPv",
-        "rank": 46,
-        "price_usd": "868.45",
-        "percent_change_24h": "-3.21",
-        "percent_change_1h": "-0.66",
-        "percent_change_7d": "8.11",
-        "price_btc": "0.049386",
+        "symbol": "OEX",
+        "name": "UWcT",
+        "rank": 61,
+        "price_usd": "658.19",
+        "percent_change_24h": "-0.17",
+        "percent_change_1h": "0.45",
+        "percent_change_7d": "-15.72",
+        "price_btc": "0.034016",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "651.26"
+                "price_usd": "138.68"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "952.78"
+                "price_usd": "272.50"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "818.36"
+                "price_usd": "138.48"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "280.65"
+                "price_usd": "887.36"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "21.11"
+                "price_usd": "784.51"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "688.27"
+                "price_usd": "99.99"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "661.74"
+                "price_usd": "353.86"
             }
         ]
     },
     {
         "id": "76",
-        "symbol": "WQO",
-        "name": "VWGs",
-        "rank": 29,
-        "price_usd": "80.26",
-        "percent_change_24h": "-6.06",
-        "percent_change_1h": "-2.19",
-        "percent_change_7d": "5.25",
-        "price_btc": "0.087039",
+        "symbol": "RWR",
+        "name": "ptaq",
+        "rank": 43,
+        "price_usd": "340.28",
+        "percent_change_24h": "2.64",
+        "percent_change_1h": "0.35",
+        "percent_change_7d": "6.19",
+        "price_btc": "0.020665",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "823.33"
+                "price_usd": "312.84"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "389.07"
+                "price_usd": "884.64"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "728.39"
+                "price_usd": "209.38"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "731.49"
+                "price_usd": "595.41"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "67.44"
+                "price_usd": "422.14"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "858.31"
+                "price_usd": "670.96"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "579.81"
+                "price_usd": "943.78"
             }
         ]
     },
     {
         "id": "77",
-        "symbol": "NBQ",
-        "name": "qMSb",
-        "rank": 98,
-        "price_usd": "783.68",
-        "percent_change_24h": "0.39",
-        "percent_change_1h": "2.24",
-        "percent_change_7d": "-9.90",
-        "price_btc": "0.042622",
+        "symbol": "RKE",
+        "name": "vELr",
+        "rank": 34,
+        "price_usd": "663.94",
+        "percent_change_24h": "9.51",
+        "percent_change_1h": "3.93",
+        "percent_change_7d": "13.80",
+        "price_btc": "0.051051",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "628.53"
+                "price_usd": "917.25"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "901.26"
+                "price_usd": "726.79"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "253.88"
+                "price_usd": "321.22"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "384.47"
+                "price_usd": "440.53"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "84.45"
+                "price_usd": "495.27"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "761.39"
+                "price_usd": "297.51"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "351.74"
+                "price_usd": "894.20"
             }
         ]
     },
     {
         "id": "78",
-        "symbol": "YKL",
-        "name": "KxPA",
-        "rank": 33,
-        "price_usd": "346.65",
-        "percent_change_24h": "-0.13",
-        "percent_change_1h": "0.20",
-        "percent_change_7d": "4.27",
-        "price_btc": "0.072778",
+        "symbol": "VKQ",
+        "name": "nCeV",
+        "rank": 37,
+        "price_usd": "117.24",
+        "percent_change_24h": "-0.74",
+        "percent_change_1h": "2.08",
+        "percent_change_7d": "-6.21",
+        "price_btc": "0.068098",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "594.96"
+                "price_usd": "468.08"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "539.97"
+                "price_usd": "290.10"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "244.66"
+                "price_usd": "432.10"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "279.65"
+                "price_usd": "120.00"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "448.33"
+                "price_usd": "136.61"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "781.82"
+                "price_usd": "15.97"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "444.85"
+                "price_usd": "805.44"
             }
         ]
     },
     {
         "id": "79",
-        "symbol": "AET",
-        "name": "Adys",
-        "rank": 38,
-        "price_usd": "350.05",
-        "percent_change_24h": "-3.23",
-        "percent_change_1h": "0.46",
-        "percent_change_7d": "11.17",
-        "price_btc": "0.066108",
+        "symbol": "PFC",
+        "name": "BpUO",
+        "rank": 74,
+        "price_usd": "939.56",
+        "percent_change_24h": "-6.25",
+        "percent_change_1h": "1.51",
+        "percent_change_7d": "6.45",
+        "price_btc": "0.078468",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "270.36"
+                "price_usd": "862.60"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "27.85"
+                "price_usd": "233.96"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "995.65"
+                "price_usd": "407.34"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "583.97"
+                "price_usd": "51.78"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "836.63"
+                "price_usd": "469.86"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "597.90"
+                "price_usd": "487.53"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "22.78"
+                "price_usd": "892.33"
             }
         ]
     },
     {
         "id": "80",
-        "symbol": "SUU",
-        "name": "xEoI",
-        "rank": 10,
-        "price_usd": "188.82",
-        "percent_change_24h": "0.53",
-        "percent_change_1h": "1.83",
-        "percent_change_7d": "14.36",
-        "price_btc": "0.089479",
+        "symbol": "ELW",
+        "name": "JbRe",
+        "rank": 24,
+        "price_usd": "796.33",
+        "percent_change_24h": "-2.48",
+        "percent_change_1h": "-2.63",
+        "percent_change_7d": "9.59",
+        "price_btc": "0.083824",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "431.65"
+                "price_usd": "525.47"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "351.85"
+                "price_usd": "642.68"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "535.67"
+                "price_usd": "48.48"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "409.88"
+                "price_usd": "254.29"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "84.10"
+                "price_usd": "503.73"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "7.86"
+                "price_usd": "779.23"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "677.16"
+                "price_usd": "597.78"
             }
         ]
     },
     {
         "id": "81",
-        "symbol": "CKI",
-        "name": "rTKh",
-        "rank": 73,
-        "price_usd": "456.94",
-        "percent_change_24h": "8.15",
-        "percent_change_1h": "0.95",
-        "percent_change_7d": "-17.21",
-        "price_btc": "0.074964",
+        "symbol": "EIP",
+        "name": "AGnn",
+        "rank": 81,
+        "price_usd": "165.95",
+        "percent_change_24h": "0.69",
+        "percent_change_1h": "4.43",
+        "percent_change_7d": "19.41",
+        "price_btc": "0.087853",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "658.84"
+                "price_usd": "85.51"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "125.26"
+                "price_usd": "697.13"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "496.50"
+                "price_usd": "585.88"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "521.86"
+                "price_usd": "912.58"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "185.44"
+                "price_usd": "357.21"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "842.09"
+                "price_usd": "508.55"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "714.87"
+                "price_usd": "863.30"
             }
         ]
     },
     {
         "id": "82",
-        "symbol": "KXQ",
-        "name": "oVyp",
-        "rank": 52,
-        "price_usd": "544.12",
-        "percent_change_24h": "4.83",
-        "percent_change_1h": "1.74",
-        "percent_change_7d": "-18.56",
-        "price_btc": "0.057470",
+        "symbol": "WDO",
+        "name": "JyTI",
+        "rank": 64,
+        "price_usd": "645.87",
+        "percent_change_24h": "-0.72",
+        "percent_change_1h": "-3.25",
+        "percent_change_7d": "-7.31",
+        "price_btc": "0.084006",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "441.42"
+                "price_usd": "372.75"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "212.04"
+                "price_usd": "769.18"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "36.38"
+                "price_usd": "47.54"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "142.26"
+                "price_usd": "529.87"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "193.34"
+                "price_usd": "528.18"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "928.78"
+                "price_usd": "742.97"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "824.84"
+                "price_usd": "969.24"
             }
         ]
     },
     {
         "id": "83",
-        "symbol": "JGG",
-        "name": "SDgL",
-        "rank": 8,
-        "price_usd": "0.45",
-        "percent_change_24h": "2.95",
-        "percent_change_1h": "-0.56",
-        "percent_change_7d": "-2.40",
-        "price_btc": "0.083523",
+        "symbol": "KWD",
+        "name": "xWmJ",
+        "rank": 68,
+        "price_usd": "987.97",
+        "percent_change_24h": "-4.49",
+        "percent_change_1h": "-4.83",
+        "percent_change_7d": "-17.50",
+        "price_btc": "0.076947",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "481.61"
+                "price_usd": "912.96"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "194.84"
+                "price_usd": "943.73"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "194.09"
+                "price_usd": "147.87"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "380.37"
+                "price_usd": "370.56"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "245.13"
+                "price_usd": "355.21"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "183.42"
+                "price_usd": "711.13"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "66.34"
+                "price_usd": "741.87"
             }
         ]
     },
     {
         "id": "84",
-        "symbol": "YDA",
-        "name": "dSFl",
-        "rank": 53,
-        "price_usd": "173.43",
-        "percent_change_24h": "2.72",
-        "percent_change_1h": "4.57",
-        "percent_change_7d": "5.74",
-        "price_btc": "0.010848",
+        "symbol": "CEC",
+        "name": "esWz",
+        "rank": 76,
+        "price_usd": "778.30",
+        "percent_change_24h": "-2.30",
+        "percent_change_1h": "-2.88",
+        "percent_change_7d": "-5.37",
+        "price_btc": "0.010092",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "256.35"
+                "price_usd": "385.47"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "604.20"
+                "price_usd": "681.52"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "570.15"
+                "price_usd": "834.28"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "217.25"
+                "price_usd": "869.11"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "476.76"
+                "price_usd": "332.44"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "383.37"
+                "price_usd": "326.34"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "354.71"
+                "price_usd": "480.99"
             }
         ]
     },
     {
         "id": "85",
-        "symbol": "MCX",
-        "name": "ImNz",
-        "rank": 34,
-        "price_usd": "543.45",
-        "percent_change_24h": "4.85",
-        "percent_change_1h": "4.43",
-        "percent_change_7d": "14.29",
-        "price_btc": "0.000768",
+        "symbol": "YBU",
+        "name": "nPgF",
+        "rank": 95,
+        "price_usd": "500.74",
+        "percent_change_24h": "-9.87",
+        "percent_change_1h": "-2.78",
+        "percent_change_7d": "-9.72",
+        "price_btc": "0.036263",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "985.13"
+                "price_usd": "62.49"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "668.43"
+                "price_usd": "205.37"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "399.34"
+                "price_usd": "745.48"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "449.24"
+                "price_usd": "736.85"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "188.35"
+                "price_usd": "430.08"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "676.74"
+                "price_usd": "191.78"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "552.51"
+                "price_usd": "614.77"
             }
         ]
     },
     {
         "id": "86",
-        "symbol": "DPI",
-        "name": "PSRZ",
-        "rank": 78,
-        "price_usd": "601.74",
-        "percent_change_24h": "4.15",
-        "percent_change_1h": "-2.84",
-        "percent_change_7d": "13.06",
-        "price_btc": "0.030263",
+        "symbol": "RUE",
+        "name": "bleo",
+        "rank": 84,
+        "price_usd": "491.95",
+        "percent_change_24h": "-5.69",
+        "percent_change_1h": "-3.75",
+        "percent_change_7d": "13.05",
+        "price_btc": "0.060029",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "196.67"
+                "price_usd": "349.12"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "427.46"
+                "price_usd": "703.25"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "393.38"
+                "price_usd": "86.48"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "35.14"
+                "price_usd": "832.13"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "663.25"
+                "price_usd": "270.35"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "377.64"
+                "price_usd": "786.75"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "517.34"
+                "price_usd": "946.17"
             }
         ]
     },
     {
         "id": "87",
-        "symbol": "GOG",
-        "name": "AzNN",
-        "rank": 76,
-        "price_usd": "916.54",
-        "percent_change_24h": "8.10",
-        "percent_change_1h": "-2.54",
-        "percent_change_7d": "-10.40",
-        "price_btc": "0.031180",
+        "symbol": "EGN",
+        "name": "AiQn",
+        "rank": 92,
+        "price_usd": "619.28",
+        "percent_change_24h": "-5.66",
+        "percent_change_1h": "3.43",
+        "percent_change_7d": "-1.37",
+        "price_btc": "0.030210",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "747.94"
+                "price_usd": "861.82"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "694.22"
+                "price_usd": "291.12"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "138.21"
+                "price_usd": "915.22"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "715.62"
+                "price_usd": "270.42"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "398.10"
+                "price_usd": "53.38"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "403.11"
+                "price_usd": "688.99"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "165.01"
+                "price_usd": "344.17"
             }
         ]
     },
     {
         "id": "88",
-        "symbol": "WJB",
-        "name": "rIAS",
-        "rank": 51,
-        "price_usd": "527.15",
-        "percent_change_24h": "-6.68",
-        "percent_change_1h": "-4.36",
-        "percent_change_7d": "6.08",
-        "price_btc": "0.087769",
+        "symbol": "EYR",
+        "name": "cyAM",
+        "rank": 80,
+        "price_usd": "707.09",
+        "percent_change_24h": "4.04",
+        "percent_change_1h": "-2.02",
+        "percent_change_7d": "18.19",
+        "price_btc": "0.096047",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "32.34"
+                "price_usd": "540.11"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "399.85"
+                "price_usd": "447.78"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "565.42"
+                "price_usd": "727.74"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "181.50"
+                "price_usd": "459.95"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "895.38"
+                "price_usd": "398.86"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "517.98"
+                "price_usd": "518.99"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "281.42"
+                "price_usd": "610.57"
             }
         ]
     },
     {
         "id": "89",
-        "symbol": "ZVK",
-        "name": "wQaa",
-        "rank": 80,
-        "price_usd": "809.08",
-        "percent_change_24h": "5.52",
-        "percent_change_1h": "-3.96",
-        "percent_change_7d": "-2.22",
-        "price_btc": "0.006398",
+        "symbol": "YKH",
+        "name": "zkJV",
+        "rank": 53,
+        "price_usd": "296.87",
+        "percent_change_24h": "-8.00",
+        "percent_change_1h": "-1.50",
+        "percent_change_7d": "-12.56",
+        "price_btc": "0.064004",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "264.49"
+                "price_usd": "480.47"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "863.05"
+                "price_usd": "558.37"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "788.53"
+                "price_usd": "713.70"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "743.01"
+                "price_usd": "495.99"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "952.88"
+                "price_usd": "671.71"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "785.04"
+                "price_usd": "160.63"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "849.08"
+                "price_usd": "151.11"
             }
         ]
     },
     {
         "id": "90",
-        "symbol": "RTU",
-        "name": "Gfny",
-        "rank": 37,
-        "price_usd": "521.13",
-        "percent_change_24h": "-2.70",
-        "percent_change_1h": "-2.75",
-        "percent_change_7d": "14.60",
-        "price_btc": "0.088850",
+        "symbol": "BLB",
+        "name": "raLy",
+        "rank": 28,
+        "price_usd": "800.10",
+        "percent_change_24h": "-1.53",
+        "percent_change_1h": "-0.24",
+        "percent_change_7d": "13.33",
+        "price_btc": "0.092841",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "95.47"
+                "price_usd": "289.53"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "202.42"
+                "price_usd": "390.71"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "446.04"
+                "price_usd": "567.10"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "641.56"
+                "price_usd": "423.55"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "109.10"
+                "price_usd": "986.01"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "347.49"
+                "price_usd": "154.88"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "967.65"
+                "price_usd": "144.32"
             }
         ]
     },
     {
         "id": "91",
-        "symbol": "HKH",
-        "name": "mEVa",
-        "rank": 27,
-        "price_usd": "582.77",
-        "percent_change_24h": "-9.34",
-        "percent_change_1h": "3.98",
-        "percent_change_7d": "15.56",
-        "price_btc": "0.078049",
+        "symbol": "GKZ",
+        "name": "YCGa",
+        "rank": 25,
+        "price_usd": "433.38",
+        "percent_change_24h": "-3.66",
+        "percent_change_1h": "1.46",
+        "percent_change_7d": "1.99",
+        "price_btc": "0.037078",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "508.12"
+                "price_usd": "582.96"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "164.63"
+                "price_usd": "529.72"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "706.59"
+                "price_usd": "197.73"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "784.40"
+                "price_usd": "308.30"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "13.75"
+                "price_usd": "181.37"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "635.28"
+                "price_usd": "184.61"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "987.93"
+                "price_usd": "747.76"
             }
         ]
     },
     {
         "id": "92",
-        "symbol": "LEZ",
-        "name": "mkkJ",
-        "rank": 78,
-        "price_usd": "753.75",
-        "percent_change_24h": "3.33",
-        "percent_change_1h": "2.38",
-        "percent_change_7d": "17.76",
-        "price_btc": "0.056911",
+        "symbol": "NTD",
+        "name": "XCCa",
+        "rank": 100,
+        "price_usd": "269.90",
+        "percent_change_24h": "-7.02",
+        "percent_change_1h": "4.98",
+        "percent_change_7d": "8.86",
+        "price_btc": "0.002013",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "113.39"
+                "price_usd": "160.26"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "630.75"
+                "price_usd": "389.32"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "783.24"
+                "price_usd": "419.57"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "637.91"
+                "price_usd": "15.17"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "33.84"
+                "price_usd": "300.19"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "498.76"
+                "price_usd": "457.66"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "553.26"
+                "price_usd": "924.28"
             }
         ]
     },
     {
         "id": "93",
-        "symbol": "MMO",
-        "name": "BJzN",
-        "rank": 13,
-        "price_usd": "376.90",
-        "percent_change_24h": "-7.78",
-        "percent_change_1h": "-4.93",
-        "percent_change_7d": "16.93",
-        "price_btc": "0.019188",
+        "symbol": "PTG",
+        "name": "BvbN",
+        "rank": 99,
+        "price_usd": "798.72",
+        "percent_change_24h": "1.66",
+        "percent_change_1h": "-1.85",
+        "percent_change_7d": "-15.10",
+        "price_btc": "0.024875",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "754.29"
+                "price_usd": "223.08"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "125.66"
+                "price_usd": "894.04"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "138.49"
+                "price_usd": "293.24"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "47.56"
+                "price_usd": "870.27"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "34.09"
+                "price_usd": "270.81"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "216.67"
+                "price_usd": "380.87"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "14.66"
+                "price_usd": "113.47"
             }
         ]
     },
     {
         "id": "94",
-        "symbol": "CHA",
-        "name": "Lpcl",
-        "rank": 38,
-        "price_usd": "654.18",
-        "percent_change_24h": "9.57",
-        "percent_change_1h": "0.60",
-        "percent_change_7d": "6.05",
-        "price_btc": "0.043308",
+        "symbol": "XMW",
+        "name": "HhUX",
+        "rank": 58,
+        "price_usd": "729.16",
+        "percent_change_24h": "9.49",
+        "percent_change_1h": "-0.75",
+        "percent_change_7d": "7.59",
+        "price_btc": "0.002295",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "103.78"
+                "price_usd": "927.79"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "260.34"
+                "price_usd": "940.97"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "148.45"
+                "price_usd": "552.20"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "319.62"
+                "price_usd": "698.13"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "942.18"
+                "price_usd": "68.70"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "916.22"
+                "price_usd": "445.12"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "487.17"
+                "price_usd": "729.66"
             }
         ]
     },
     {
         "id": "95",
-        "symbol": "DER",
-        "name": "COcn",
-        "rank": 22,
-        "price_usd": "881.92",
-        "percent_change_24h": "8.66",
-        "percent_change_1h": "3.99",
-        "percent_change_7d": "-2.89",
-        "price_btc": "0.077326",
+        "symbol": "HBB",
+        "name": "mhyD",
+        "rank": 83,
+        "price_usd": "683.03",
+        "percent_change_24h": "-8.98",
+        "percent_change_1h": "-3.40",
+        "percent_change_7d": "18.97",
+        "price_btc": "0.035657",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "886.36"
+                "price_usd": "913.82"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "67.36"
+                "price_usd": "326.11"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "450.66"
+                "price_usd": "673.23"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "470.98"
+                "price_usd": "944.88"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "478.38"
+                "price_usd": "289.84"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "56.99"
+                "price_usd": "496.19"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "733.62"
+                "price_usd": "482.01"
             }
         ]
     },
     {
         "id": "96",
-        "symbol": "MUR",
-        "name": "bZGh",
-        "rank": 71,
-        "price_usd": "255.36",
-        "percent_change_24h": "3.93",
-        "percent_change_1h": "2.53",
-        "percent_change_7d": "19.56",
-        "price_btc": "0.018089",
+        "symbol": "MZX",
+        "name": "UYnP",
+        "rank": 32,
+        "price_usd": "690.85",
+        "percent_change_24h": "4.82",
+        "percent_change_1h": "-4.10",
+        "percent_change_7d": "-9.57",
+        "price_btc": "0.082581",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "445.33"
+                "price_usd": "709.56"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "427.06"
+                "price_usd": "557.88"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "800.15"
+                "price_usd": "387.85"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "118.60"
+                "price_usd": "166.61"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "209.77"
+                "price_usd": "338.94"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "534.08"
+                "price_usd": "523.35"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "83.76"
+                "price_usd": "528.01"
             }
         ]
     },
     {
         "id": "97",
-        "symbol": "RZI",
-        "name": "gGrJ",
-        "rank": 73,
-        "price_usd": "386.34",
-        "percent_change_24h": "-9.34",
-        "percent_change_1h": "4.07",
-        "percent_change_7d": "7.64",
-        "price_btc": "0.052638",
+        "symbol": "JPU",
+        "name": "idUI",
+        "rank": 30,
+        "price_usd": "347.65",
+        "percent_change_24h": "5.81",
+        "percent_change_1h": "0.06",
+        "percent_change_7d": "-1.27",
+        "price_btc": "0.043190",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "725.25"
+                "price_usd": "395.98"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "500.25"
+                "price_usd": "97.03"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "119.49"
+                "price_usd": "729.97"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "292.69"
+                "price_usd": "692.15"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "631.68"
+                "price_usd": "882.26"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "3.63"
+                "price_usd": "868.76"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "315.18"
+                "price_usd": "846.91"
             }
         ]
     },
     {
         "id": "98",
-        "symbol": "QTI",
-        "name": "CVol",
-        "rank": 81,
-        "price_usd": "385.10",
-        "percent_change_24h": "-1.68",
-        "percent_change_1h": "-3.61",
-        "percent_change_7d": "18.95",
-        "price_btc": "0.065217",
+        "symbol": "ZSK",
+        "name": "zAcG",
+        "rank": 63,
+        "price_usd": "905.12",
+        "percent_change_24h": "7.09",
+        "percent_change_1h": "-2.25",
+        "percent_change_7d": "8.47",
+        "price_btc": "0.010760",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "853.94"
+                "price_usd": "390.61"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "450.27"
+                "price_usd": "25.57"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "722.94"
+                "price_usd": "778.40"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "904.28"
+                "price_usd": "269.25"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "198.02"
+                "price_usd": "321.48"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "100.98"
+                "price_usd": "509.97"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "432.88"
+                "price_usd": "349.97"
             }
         ]
     },
     {
         "id": "99",
-        "symbol": "ZLV",
-        "name": "PEVU",
-        "rank": 23,
-        "price_usd": "200.03",
-        "percent_change_24h": "-2.49",
-        "percent_change_1h": "1.59",
-        "percent_change_7d": "-12.29",
-        "price_btc": "0.070852",
+        "symbol": "QOD",
+        "name": "VdHk",
+        "rank": 75,
+        "price_usd": "733.26",
+        "percent_change_24h": "-5.67",
+        "percent_change_1h": "2.66",
+        "percent_change_7d": "13.37",
+        "price_btc": "0.082004",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "308.24"
+                "price_usd": "924.67"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "433.90"
+                "price_usd": "301.75"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "824.41"
+                "price_usd": "694.93"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "956.34"
+                "price_usd": "167.75"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "206.55"
+                "price_usd": "711.17"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "346.56"
+                "price_usd": "913.70"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "234.61"
+                "price_usd": "64.45"
             }
         ]
     },
     {
         "id": "100",
-        "symbol": "UQG",
-        "name": "jTSz",
-        "rank": 64,
-        "price_usd": "526.21",
-        "percent_change_24h": "8.91",
-        "percent_change_1h": "3.34",
-        "percent_change_7d": "-19.27",
-        "price_btc": "0.085698",
+        "symbol": "FRU",
+        "name": "rEea",
+        "rank": 62,
+        "price_usd": "666.99",
+        "percent_change_24h": "6.54",
+        "percent_change_1h": "2.80",
+        "percent_change_7d": "-17.00",
+        "price_btc": "0.093724",
         "price_usd_last_7_days": [
             {
                 "date": "2024-05-17",
-                "price_usd": "242.70"
+                "price_usd": "504.92"
             },
             {
                 "date": "2024-05-16",
-                "price_usd": "134.87"
+                "price_usd": "757.80"
             },
             {
                 "date": "2024-05-15",
-                "price_usd": "846.85"
+                "price_usd": "290.14"
             },
             {
                 "date": "2024-05-14",
-                "price_usd": "800.45"
+                "price_usd": "986.30"
             },
             {
                 "date": "2024-05-13",
-                "price_usd": "20.26"
+                "price_usd": "399.50"
             },
             {
                 "date": "2024-05-12",
-                "price_usd": "836.42"
+                "price_usd": "720.70"
             },
             {
                 "date": "2024-05-11",
-                "price_usd": "636.17"
+                "price_usd": "492.65"
             }
         ]
     }

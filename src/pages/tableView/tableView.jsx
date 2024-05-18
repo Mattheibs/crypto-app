@@ -10,7 +10,6 @@ function TableView({ tableData }) {
 	// Column Definitions: Defines the columns to be displayed.
 	const pagination = true;
 	const paginationPageSize = 15;
-	const paginationPageSizeSelector = [15, 20, 50, 100];
 
 	const exportContactsReport = (params) => {
 		contactsGridRef.current.api?.exportDataAsCsv(params);

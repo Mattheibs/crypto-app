@@ -1,0 +1,40 @@
+.billing-page {
+	margin-top: 5rem;
+	margin-left: 5rem;
+	max-width: 35rem;
+
+	&__details {
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+
+		input {
+			min-width: 16rem;
+			padding: 0.5rem;
+			font-size: 1rem;
+			border-radius: 8px;
+			border: none;
+		}
+
+		input:focus {
+			outline: none;
+		}
+
+		&__small {
+			display: flex;
+			gap: 3rem;
+			justify-content: space-between;
+			&__input-container {
+				display: flex;
+				flex-direction: column;
+				gap: 0.5rem;
+			}
+		}
+
+		&__input-container {
+			display: flex;
+			flex-direction: column;
+			gap: 0.5rem;
+		}
+	}
+}
